@@ -32,7 +32,7 @@ I'll use the following icons and dimensions to differentiate the approaches:
 
 <b>:camera::one::door: [Convolutional Pose Machines](https://arxiv.org/pdf/1602.00134.pdf) (Apr 2016)</b>
 
-<b>:camera::one::door: [Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation(https://arxiv.org/pdf/1705.00389.pdf) (May 2017)</b>
+<b>:camera::one::door: [Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation](https://arxiv.org/pdf/1705.00389.pdf) (May 2017)</b>
 
 <a name="3d_models" />
 
