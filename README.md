@@ -15,8 +15,8 @@ I'll use the following icons and dimensions to differentiate the approaches:
 	- :one: Single-Person
 	- :1234: Multi-Person
 - Spatial Dimensions
-	- [2D Models](#2d_models)
-	- [3D Models](#3d_models)
+	- :door: 2D Models
+	- :package: 3D Models
 
 ## Projects and papers
 
