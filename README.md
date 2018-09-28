@@ -44,9 +44,9 @@ I'll use the following icons and dimensions to differentiate the approaches:
 
 <b>:camera::1234::package: [DensePose: Dense Human Pose Estimation In The Wild](https://arxiv.org/pdf/1802.00434.pdf) (2018)</b> [[Project page]](http://densepose.org)
 
-<b>:movie_camera::one::package: ]End-to-end Recovery of Human Shape and Pose](https://arxiv.org/pdf/1712.06584.pdf) (2017)</b> [[Project page]](https://github.com/akanazawa/hmr)
+<b>:movie_camera::one::package: [End-to-end Recovery of Human Shape and Pose](https://arxiv.org/pdf/1712.06584.pdf) (2017)</b> [[Project page]](https://github.com/akanazawa/hmr)
 
-<b>:movie_camera::1234::package: ]LCR-Net++: Multi-person 2D and 3D Pose Detection in Natural Images](https://arxiv.org/pdf/1803.00455.pdf) (2018)</b> [[Project page]](https://thoth.inrialpes.fr/src/LCR-Net/)
+<b>:movie_camera::1234::package: [LCR-Net++: Multi-person 2D and 3D Pose Detection in Natural Images](https://arxiv.org/pdf/1803.00455.pdf) (2018)</b> [[Project page]](https://thoth.inrialpes.fr/src/LCR-Net/)
 
 <b>:movie_camera::one::package: [Spatio-temporal Matching for Human Pose Estimation](http://www.f-zhou.com/hpe/2014_ECCV_STM.pdf) (2014)</b> [[Project page]](http://www.f-zhou.com/hpe.html)
 
@@ -58,7 +58,7 @@ I'll use the following icons and dimensions to differentiate the approaches:
 
 <b>:camera::one::package: [MoCap-guided Data Augmentation for 3D Pose Estimation in the Wild](https://arxiv.org/pdf/1607.02046.pdf) (2016)</b> [[Paper]]
 
-<b>:camera::one::package: [Lifting from the Deep: Convolutional 3D Pose Estimation from a Single] Image(https://arxiv.org/pdf/1701.00295.pdf) (2017)</b> [[Paper]]
+<b>:camera::one::package: [Lifting from the Deep: Convolutional 3D Pose Estimation from a Single Image](https://arxiv.org/pdf/1701.00295.pdf) (2017)</b> [[Paper]]
 
 <b>:movie_camera::one::package: [MonoPerfCap: Human Performance Capture from Monocular Video](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/content/monoperfcap.pdf) (2018)</b> [[Project page]](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/)
 
