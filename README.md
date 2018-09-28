@@ -79,7 +79,9 @@ I'll use the following icons and dimensions to differentiate the approaches:
 
 <b>:camera::one::package:[Knowledge-Guided Deep Fractal Neural Networks for Human Pose Estimation](https://arxiv.org/pdf/1705.02407.pdf) (Aug 2017) </b> [[Project]](http://github.com/Guanghan/GNet-pose)
 
-https://arxiv.org/pdf/1805.08961v2.pdf
+<b>:camera::one::package:[3D Human Pose Estimation with Relational Networks](https://arxiv.org/pdf/1805.08961v2.pdf) (Jul 2018) </b>
+
+<b>:camera::one::package:[3D Human Pose Estimation Using Convolutional Neural Networks with 2D Pose Information](https://arxiv.org/pdf/1608.03075.pdf) (Sep 2016) </b>
 
 https://arxiv.org/pdf/1608.03075.pdf
 
