@@ -23,7 +23,7 @@ I'll use the following icons and dimensions to differentiate the approaches:
 <a name="2d_models" />
 
 ### 2D Models
-<b>:movie_camera::1234: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields (2017)</b> [[Project page]](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)[[Paper]](https://arxiv.org/pdf/1611.08050.pdf)
+<b>:movie_camera::1234: [[Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields (2017)]](https://arxiv.org/pdf/1611.08050.pdf)</b> [[Project page]](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
 
 <b>:camera::one: Stacked Hourglass Networks for Human Pose Estimation (2016)</b> [[Paper]](https://arxiv.org/pdf/1603.06937.pdf)
 
