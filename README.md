@@ -17,6 +17,9 @@ I'll use the following icons and dimensions to differentiate the approaches:
 - Spatial Dimensions
 	- :door: 2D Models
 	- :package: 3D Models
+- Positioning
+	- :running: 3rd person
+	- :girl: Ego-centric
 
 ## Projects and papers
 
