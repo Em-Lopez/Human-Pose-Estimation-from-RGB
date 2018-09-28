@@ -53,9 +53,9 @@ I'll use the following icons and dimensions to differentiate the approaches:
 
 <b>:movie_camera::one::package: [Spatio-temporal Matching for Human Pose Estimation](http://www.f-zhou.com/hpe/2014_ECCV_STM.pdf) (Sep 2014)</b> [[Project page]](http://www.f-zhou.com/hpe.html)
 
-<b>:movie_camera::one::package: [Sparseness Meets Deepness: 3D Human Pose Estimation from Monocular Video](https://arxiv.org/pdf/1511.09439.pdf) (2016)</b>
+<b>:movie_camera::one::package: [Sparseness Meets Deepness: 3D Human Pose Estimation from Monocular Video](https://arxiv.org/pdf/1511.09439.pdf) (Apr 2016)</b> http://cis.upenn.edu/~xiaowz/monocap.html
 
-<b>:camera::one::package: [Learning to Fuse 2D and 3D Image Cues for Monocular Body Pose Estimation](https://arxiv.org/pdf/1611.05708.pdf) (2017)</b>
+<b>:camera::one::package: [Learning to Fuse 2D and 3D Image Cues for Monocular Body Pose Estimation](https://arxiv.org/pdf/1611.05708.pdf) (2017)</b> 
 
 <b>:camera::one::package: [Keep it SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image](https://arxiv.org/pdf/1607.08128.pdf) (2016)</b>
 
