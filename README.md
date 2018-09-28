@@ -65,3 +65,21 @@ I'll use the following icons and dimensions to differentiate the approaches:
 <b>:camera::one::package: [Unsupervised Adversarial Learning of 3D Human Pose from 2D Joint Locations](https://arxiv.org/pdf/1803.08244.pdf) (2018)</b> [[Project page]](https://nico-opendata.jp/en/casestudy/3dpose_gan/index.html)
 
 <b>:camera::one::package: [3D Human Pose Estimation in the Wild by Adversarial Learning](https://arxiv.org/pdf/1803.09722.pdf) (2018)</b>
+
+**3D Models**
+
+[📷1️⃣ 3D Human Pose Estimation Using Stochastic Optimization In Real Time](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8451427)
+[Gesture and Sign Language Recognition with Deep Learning(Easy Friendly Guide)](https://biblio.ugent.be/publication/8573066/file/8573068)
+[💲📷🔢  Deep Human Pose Estimation Using Cascade of Multiple Neural Networks](https://ieeexplore.ieee.org/document/8432121/)
+[💲📷1️⃣ Hand Pose Estimation with Attention-and-Sequence Network](https://link.springer.com/chapter/10.1007/978-3-030-00776-8_51)
+[💲📷1️⃣ Towards Fully Mobile 3D Face, Body, and Environment Capture Using Only Head-worn Cameras](https://ieeexplore.ieee.org/abstract/document/8458443)
+[📷1️⃣ Deep 3D Human Pose Estimation Under Partial Body Presence](https://ieeexplore.ieee.org/document/8451031)
+[📷1️⃣ 3D Ego-Pose Estimation via Imitation Learning](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ye_Yuan_3D_Ego-Pose_Estimation_ECCV_2018_paper.pdf)
+[📷1️⃣ Neural Body Fitting: Unifying Deep Learning and Model-Based Human Pose
+and Shape Estimation](https://arxiv.org/pdf/1808.05942.pdf) [(Project)](
+http://github.com/mohomran/neural_body_fitting)
+[📷1️⃣ Knowledge-Guided Deep Fractal Neural Networks
+for Human Pose Estimation](https://arxiv.org/pdf/1705.02407.pdf) [(Project)](http://github.com/Guanghan/GNet-pose)
+
+https://arxiv.org/pdf/1805.08961v2.pdf
+https://arxiv.org/pdf/1608.03075.pdf
