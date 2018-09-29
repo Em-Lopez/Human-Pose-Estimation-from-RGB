@@ -23,11 +23,7 @@ I'll use the following icons and dimensions to differentiate the approaches:
 
 ## Projects and papers
 
-<a name="2d_models" />
-
-### 2D Models
-
-<a name="Fall 2018" />
+<a name="Fall 2018"/>
 
 ### Fall 2018
 
@@ -48,6 +44,7 @@ I'll use the following icons and dimensions to differentiate the approaches:
 <b>:camera::1234::package: [Single-Shot Multi-Person 3D Body Pose Estimation From Monocular RGB Input](https://arxiv.org/pdf/1712.03453.pdf) (Aug 2018)</b>
 
 <a name="Spring 2018"/>
+
 ### Spring 2018
 
 <b>:movie_camera::1234::package: [LCR-Net++: Multi-person 2D and 3D Pose Detection in Natural Images](https://arxiv.org/pdf/1803.00455.pdf) (Mar 2018)</b> [[Project page]](https://thoth.inrialpes.fr/src/LCR-Net/)
@@ -61,11 +58,13 @@ I'll use the following icons and dimensions to differentiate the approaches:
 <b>:movie_camera::one::package: [End-to-end Recovery of Human Shape and Pose](https://arxiv.org/pdf/1712.06584.pdf) (Jun 2018)</b> [[Project page]](https://github.com/akanazawa/hmr)
 
 <a name="Winter 2017"/>
+
 ### Winter 2017
 
 <b>:camera::1234::package: [DensePose: Dense Human Pose Estimation In The Wild](https://arxiv.org/pdf/1802.00434.pdf) (Feb 2018)</b> [[Project page]](http://densepose.org)
 
-<a name="Fall 2018" />
+<a name="Fall 2018"/>
+
 ### Fall 2018
 
 <b>:movie_camera::1234::door: [Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/pdf/1611.08050.pdf) (Apr 2017)</b> [[Project page]](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
@@ -84,7 +83,8 @@ I'll use the following icons and dimensions to differentiate the approaches:
 
 <b>:camera::one::package:[Knowledge-Guided Deep Fractal Neural Networks for Human Pose Estimation](https://arxiv.org/pdf/1705.02407.pdf) (Aug 2017) </b> [[Project]](http://github.com/Guanghan/GNet-pose)
 
-<a name="2016" />
+<a name="2016"/>
+
 ### 2016
 
 <b>:movie_camera::one::package: [Sparseness Meets Deepness: 3D Human Pose Estimation from Monocular Video](https://arxiv.org/pdf/1511.09439.pdf) (Apr 2016)</b> [[Project Page]](http://cis.upenn.edu/~xiaowz/monocap.html)
