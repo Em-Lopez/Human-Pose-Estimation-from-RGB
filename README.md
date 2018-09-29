@@ -101,9 +101,9 @@ I'll use the following icons and dimensions to differentiate the approaches:
 
 <b>:movie_camera::one::package: [Spatio-temporal Matching for Human Pose Estimation](http://www.f-zhou.com/hpe/2014_ECCV_STM.pdf) (Sep 2014)</b> [[Project page]](http://www.f-zhou.com/hpe.html)
 
-3D Human Pose Estimation with Siamese Equivariant Embedding - Good, but not suitable for my purposes. Two networks compare what they think of two different views of the same person. Siamese archetecutre comparing rotationally invariant output.
+<!---3D Human Pose Estimation with Siamese Equivariant Embedding - Good, but not suitable for my purposes. Two networks compare what they think of two different views of the same person. Siamese archetecutre comparing rotationally invariant output.
 Bio-LSTM: A Biomechanically Inspired Recurrent Neural Network for 3D Pedestrian Pose and Gait Prediction - This was written by a guy who doesn't understand the future is fuzzy logic. (I mean shit what about dogs and kids?)
-Deep Textured 3D Reconstruction of Human Bodies - Need depth cameras but Imma read anyway. They don't use depth on live, so it's legit.
+Deep Textured 3D Reconstruction of Human Bodies - Need depth cameras but Imma read anyway. They don't use depth on live, so it's legit.--->
 
 <b>:camera::one::package: [Deep Textured 3D Reconstruction of Human Bodies](https://arxiv.org/pdf/1809.06547v1.pdf) (Sep 2018)</b>[[Project page]](http://www.f-zhou.com/hpe.html)
 
