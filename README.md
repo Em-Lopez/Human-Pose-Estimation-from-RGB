@@ -28,6 +28,7 @@ I'll use the following icons and dimensions to differentiate the approaches:
 ### 2D Models
 
 <a name="Fall 2018" />
+
 ### Fall 2018
 
 <b>:camera::one::package:[3D Human Pose Estimation Using Stochastic Optimization In Real Time](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8451427) (Oct 2018)</b>
@@ -36,7 +37,8 @@ I'll use the following icons and dimensions to differentiate the approaches:
 
 <b>:camera::one::package:[3D Ego-Pose Estimation via Imitation Learning](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ye_Yuan_3D_Ego-Pose_Estimation_ECCV_2018_paper.pdf) (Sep 2018) </b>
 
-<a name="Summer 2018" />
+<a name="Summer 2018"/>
+
 ### Summer 2018
 
 <b>:camera::one::package:[3D Human Pose Estimation with Relational Networks](https://arxiv.org/pdf/1805.08961v2.pdf) (Jul 2018) </b>
