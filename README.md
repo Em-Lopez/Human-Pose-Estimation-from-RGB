@@ -37,6 +37,9 @@ I'll use the following icons and dimensions to differentiate the approaches:
 <b>:camera::one::package:[3D Ego-Pose Estimation via Imitation Learning](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ye_Yuan_3D_Ego-Pose_Estimation_ECCV_2018_paper.pdf) (Sep 2018) </b>
 ###### Headcam, kinda wonky tBH
 
+<b>:camera::1234::package:[3D Human Pose Estimation with Siamese Equivariant Embedding]() (Sep 2018) </b>
+###### Lets compare answers after doing our homework.
+
 <a name="Summer 2018"/>
 
 ### Summer 2018
@@ -111,13 +114,12 @@ I'll use the following icons and dimensions to differentiate the approaches:
 
 <b>:camera::one::package: [Rethinking Pose in 3D: Multi-stage Refinement and Recovery for Markerless Motion Capture](https://arxiv.org/pdf/1808.01525v1.pdf) (Aug 2018)</b> [[Project Page]]
 
-<!---
+
 Prioritize HOSTED CODE THIS IS THE MOST IMPORTANT FOR CLONING PURPOSES
 Priositize DATE        THIS IS THE SECOND MOST BECAUSE IT WILL BUILD ON PREVIOUS WORK
 Prioritize 3d/2d       
 Human 3.6m
 bone representation vs joint coordinates
-
 
 
 Synthetic Occlusion Augmentation with Volumetric Heatmaps for the 2018 ECCV PoseTrack Challenge on 3D Human Pose Estimation (Sep 2018)
@@ -161,7 +163,6 @@ EgoCap: Egocentric Marker-less Motion Capture with Two Fisheye Cameras (Sep 2016
 Synthesizing Training Images for Boosting Human 3D Pose Estimation (Apr 2016)
 Sparseness Meets Deepness: 3D Human Pose Estimation from Monocular Video (Nov 2015)
 A Dual-Source Approach for 3D Pose Estimation from a Single Image (Sep 2015)
---->
 
 https://arxiv.org/pdf/1608.03075.pdf
 
