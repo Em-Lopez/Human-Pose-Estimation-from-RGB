@@ -28,11 +28,18 @@ I'll use the following icons and dimensions to differentiate the approaches:
 ### Fall 2018
 
 <b>:camera::one::package:[3D Human Pose Estimation Using Stochastic Optimization In Real Time](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8451427) (Oct 2018)</b>
+
 ###### Again and again
-<b>:camera::one::package:[Deep 3D Human Pose Estimation Under Partial Body Presence](https://ieeexplore.ieee.org/document/8451031) (Oct 2018)</b>
+
+<b>:camera::one::package:[Deep 3D Human Pose Estimation Under Partial Body Presence
+](https://ieeexplore.ieee.org/document/8451031) (Oct 2018)</b>
+
 ###### My legs have been chopped off
+
 <b>:camera::one::package:[3D Ego-Pose Estimation via Imitation Learning](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ye_Yuan_3D_Ego-Pose_Estimation_ECCV_2018_paper.pdf) (Sep 2018) </b>
+
 ###### Headcam, kinda wonky tBH
+
 <a name="Summer 2018"/>
 
 ### Summer 2018
