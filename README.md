@@ -43,6 +43,8 @@ I'll use the following icons and dimensions to differentiate the approaches:
 
 <b>:camera::one::package:[3D Human Pose Estimation with Relational Networks](https://arxiv.org/pdf/1805.08961v2.pdf) (Jul 2018) </b>
 
+###### Back bone connected to the shoulder bone, shoulder bone connected to the neck bone...
+
 <b>:camera::one::package:[Neural Body Fitting: Unifying Deep Learning and Model-Based Human Pose and Shape Estimation](https://arxiv.org/pdf/1808.05942.pdf) (Aug 2018) </b> [[Project]](http://github.com/mohomran/neural_body_fitting)
 
 <b>:camera::1234::package: [Single-Shot Multi-Person 3D Body Pose Estimation From Monocular RGB Input](https://arxiv.org/pdf/1712.03453.pdf) (Aug 2018)</b>
