@@ -214,7 +214,4 @@ https://arxiv.org/pdf/1608.03075.pdf
 
 Gesture and Sign Language Recognition with Deep Learning(Easy Friendly Guide)](https://biblio.ugent.be/publication/8573066/file/8573068)
 
-SO CHECK IT, all the best papers seem to be doing on thing in common, they take an image and turn it into a 2d model.
-So it be like a stick figure, like a color man, like a glowing thingy map, and they contain the 2d.
-Then theys got like 3d lifter uppers, and they turn it 3d like.
-And they got like these two agents that compete with each other for trueness. Or they take like 2 angles of the same shit and compare answers, a.
+SO CHECK IT, I want like a off the shelf state-of-the-art 2d pose heatmap detector, with FBI polarity switches on the joints, hear? I want like a recurrent neural network that does video frame extrapolation. I want a generator network that gives me a bunch of funky poses and a discriminator that throws 'em, and a thing that runs on physics, like actual physics!
