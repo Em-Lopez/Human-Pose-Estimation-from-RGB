@@ -165,6 +165,7 @@ Coarse-to-Fine Volumetric Prediction for Single-Image 3D Human Pose (Nov 2016)
 Learning camera viewpoint using CNN to improve 3D body pose estimation (Sep 2016)
 EgoCap: Egocentric Marker-less Motion Capture with Two Fisheye Cameras (Sep 2016)
 Synthesizing Training Images for Boosting Human 3D Pose Estimation (Apr 2016)
+Seeing Invisible Poses: Estimating 3D Body Pose from Egocentric Video (Mar 2016) - Completely insane and above the scope of science
 Sparseness Meets Deepness: 3D Human Pose Estimation from Monocular Video (Nov 2015)
 A Dual-Source Approach for 3D Pose Estimation from a Single Image (Sep 2015)
 
