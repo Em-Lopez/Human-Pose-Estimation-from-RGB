@@ -35,7 +35,7 @@ I'll use the following icons and dimensions to differentiate the approaches:
 ###### My legs have been chopped off
 
 <b>:camera::one::package:[Adversarial 3D Human Pose Estimation via Multimodal Depth Supervision](https://arxiv.org/pdf/1809.07921v1.pdf) (Sep 2018) </b>
-###### 
+###### Continuation of FBI work
 
 <b>:camera::one::package:[3D Ego-Pose Estimation via Imitation Learning](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ye_Yuan_3D_Ego-Pose_Estimation_ECCV_2018_paper.pdf) (Sep 2018) </b>
 ###### Headcam, they use a very complicated ragdoll, also, just walking
@@ -52,6 +52,9 @@ I'll use the following icons and dimensions to differentiate the approaches:
 
 <b>:camera::one::package:[Neural Body Fitting: Unifying Deep Learning and Model-Based Human Pose and Shape Estimation](https://arxiv.org/pdf/1808.05942.pdf) (Aug 2018) </b> [[Project]](http://github.com/mohomran/neural_body_fitting)
 ###### Color Me Rad
+
+<b>:camera:one:package:[FBI-Pose: Towards Bridging the Gap between 2D Images and 3D Human Poses using Forward-or-Backward Information](https://arxiv.org/pdf/1806.09241) (Jun 2018) </b>
+###### Anderson Silva's leg
 
 <b>:camera::1234::package: [Single-Shot Multi-Person 3D Body Pose Estimation From Monocular RGB Input](https://arxiv.org/pdf/1712.03453.pdf) (Aug 2018)</b>
 ###### They use a ORPM, whatever that means. And they have some very obviouly green screened images.
