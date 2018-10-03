@@ -35,7 +35,7 @@ I'll use the following icons and dimensions to differentiate the approaches:
 ###### My legs have been chopped off
 
 <b>:camera::one::package:[Adversarial 3D Human Pose Estimation via Multimodal Depth Supervision](https://arxiv.org/pdf/1809.07921v1.pdf) (Sep 2018) </b>
-###### Continuation of FBI work
+###### Continuation of FBI work, also got multimodal netowrk now.
 
 <b>:camera::one::package:[3D Ego-Pose Estimation via Imitation Learning](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ye_Yuan_3D_Ego-Pose_Estimation_ECCV_2018_paper.pdf) (Sep 2018) </b>
 ###### Headcam, they use a very complicated ragdoll, also, just walking
