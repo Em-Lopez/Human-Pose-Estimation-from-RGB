@@ -35,9 +35,9 @@ I'll use the following icons and dimensions to differentiate the approaches:
 ###### My legs have been chopped off
 
 <b>:camera::one::package:[3D Ego-Pose Estimation via Imitation Learning](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ye_Yuan_3D_Ego-Pose_Estimation_ECCV_2018_paper.pdf) (Sep 2018) </b>
-###### Headcam, kinda wonky tBH
+###### Headcam, they use a very complicated ragdoll, also, just walking
 
-<b>:camera::1234::package:[3D Human Pose Estimation with Siamese Equivariant Embedding]() (Sep 2018) </b>
+<b>:camera::camera::one::package:[3D Human Pose Estimation with Siamese Equivariant Embedding]() (Sep 2018) </b>
 ###### Lets compare answers after doing our homework.
 
 <a name="Summer 2018"/>
@@ -51,6 +51,7 @@ I'll use the following icons and dimensions to differentiate the approaches:
 ###### Color Me Rad
 
 <b>:camera::1234::package: [Single-Shot Multi-Person 3D Body Pose Estimation From Monocular RGB Input](https://arxiv.org/pdf/1712.03453.pdf) (Aug 2018)</b>
+###### They use a ORPM, whatever that means. And they have some very obviouly green screened images.
 
 <a name="Spring 2018"/>
 
