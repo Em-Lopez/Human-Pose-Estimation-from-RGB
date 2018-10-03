@@ -34,10 +34,13 @@ I'll use the following icons and dimensions to differentiate the approaches:
 ](https://ieeexplore.ieee.org/document/8451031) (Oct 2018)</b>
 ###### My legs have been chopped off
 
+<b>:camera::one::package:[Adversarial 3D Human Pose Estimation via Multimodal Depth Supervision](https://arxiv.org/pdf/1809.07921v1.pdf) (Sep 2018) </b>
+###### 
+
 <b>:camera::one::package:[3D Ego-Pose Estimation via Imitation Learning](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ye_Yuan_3D_Ego-Pose_Estimation_ECCV_2018_paper.pdf) (Sep 2018) </b>
 ###### Headcam, they use a very complicated ragdoll, also, just walking
 
-<b>:camera::camera::one::package:[3D Human Pose Estimation with Siamese Equivariant Embedding]() (Sep 2018) </b>
+<b>:camera::camera::one::package:[3D Human Pose Estimation with Siamese Equivariant Embedding](https://arxiv.org/pdf/1809.07217.pdf) (Sep 2018) </b>
 ###### Lets compare answers after doing our homework.
 
 <a name="Summer 2018"/>
