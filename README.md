@@ -28,7 +28,7 @@ I'll use the following icons and dimensions to differentiate the approaches:
 ### Fall 2018
 
 <b>:camera::one::package:[3D Human Pose Estimation Using Stochastic Optimization In Real Time](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8451427) (Oct 2018)</b>
-###### Again and again
+###### Again and again, This is depth based, but the process of using iterations can be applied to pure RGB
 
 <b>:camera::one::package:[Deep 3D Human Pose Estimation Under Partial Body Presence
 ](https://ieeexplore.ieee.org/document/8451031) (Oct 2018)</b>
