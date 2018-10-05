@@ -177,3 +177,11 @@ Gesture and Sign Language Recognition with Deep Learning(Easy Friendly Guide)](h
 
 SO CHECK IT, I want like a off the shelf state-of-the-art 2d pose heatmap detector, with FBI polarity switches on the joints, hear? I want like a recurrent neural network that does video frame extrapolation. I want a generator network that gives me a bunch of funky poses and a discriminator that throws 'em, and a thing that runs on physics, like actual physics!
 OK LIKE SERIOUSLY, HAS ANBODY ACTUALLY GONE AND MADE A TIME DEPENDENT NEURAL NETWORK, INSTEAD OF SOME HACKED TOGETHER AFTERTHOUGHT FUZZ FILTER FOR POSES. I DON'T LIKE THE JITTER AND LITTERALLY YOU'RE THROWING HALF THE GOOD INFORMATION AWAY, ONLY TO RECOMPUTE IT THE NEXT 30TH OF A SECOND!! THIS IS NOT how humans PROCESS VIDEO FEEDS!!!
+
+https://github.com/Bob130/Human-Pose-Estimation-Papers
+
+https://github.com/dongzhuoyao/jessiechouuu-adversarial-pose
+
+https://github.com/cbsudux/awesome-human-pose-estimation
+
+https://github.com/cbsudux/awesome-human-pose-estimation
