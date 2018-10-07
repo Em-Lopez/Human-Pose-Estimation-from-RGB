@@ -130,45 +130,85 @@ bone representation vs joint coordinates
 
 
 Synthetic Occlusion Augmentation with Volumetric Heatmaps for the 2018 ECCV PoseTrack Challenge on 3D Human Pose Estimation (Sep 2018)
+
 3D Human Pose Estimation with Siamese Equivariant Embedding (Sep 2018) - Good, but not suitable for my purposes. Two networks compare what they think of two different views of the same person. Siamese archetecutre comparing rotationally invariant output.
+
 Bio-LSTM: A Biomechanically Inspired Recurrent Neural Network for 3D Pedestrian Pose and Gait Prediction (Sep 2018) - This was written by a guy who doesn't understand the future is fuzzy logic. (I mean shit what about dogs and kids?)
+
 Deep Textured 3D Reconstruction of Human Bodies (Sep 2018) - Need depth cameras but Imma read anyway. They don't use depth on live, so it's legit, but this is blob based not bone based so no go.
+
 It's all Relative: Monocular 3D Human Pose Estimation from Weakly Supervised Data (May 2018)
+
 DRPose3D: Depth Ranking in 3D Human Pose Estimation (May 2018)
+
 BodyNet: Volumetric Inference of 3D Human Body Shapes (Apr 2018)
+
 A generalizable approach for multi-view 3D human pose regression (Apr 2018)
+
 Learning Monocular 3D Human Pose Estimation from Multi-view Images (Mar 2018)
+
 3D Human Pose Estimation in the Wild by Adversarial Learning (Mar 2018)
+
 Multi-Scale Structure-Aware Network for Human Pose Estimation (Mar 2018)
+
 LCR-Net++: Multi-person 2D and 3D Pose Detection in Natural Images (Mar 2018)
+
 Mo2Cap2: Real-time Mobile 3D Motion Capture with a Cap-mounted Fisheye Camera (Mar 2018)
+
 Image-based Synthesis for Deep 3D Human Pose Estimation (Feb 2018)
+
 Single-Shot Multi-Person 3D Pose Estimation From Monocular RGB (Dec 2017)
+
 Using a single RGB frame for real time 3D hand pose estimation in the wild (Dec 2017)
+
 End-to-end Recovery of Human Shape and Pose (Dec 2017)
+
 Learning 3D Human Pose from Structure and Motion (Nov 2017)
+
 Exploiting temporal information for 3D pose estimation (Nov 2017)
+
 Learning Human Pose Models from Synthesized Data for Robust RGB-D Action Recognition (Jul 2017)
+
 Recurrent 3D Pose Sequence Machines (Jul 2017)
+
 Faster Than Real-time Facial Alignment: A 3D Spatial Transformer Network Approach in Unconstrained Poses (Jul 2017)
+
 VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera (May 2017)
+
 A Dual-Source Approach for 3D Human Pose Estimation from a Single Image (May 2017)
+
 Forecasting Human Dynamics from Static Images (Apr 2017)
+
 Compositional Human Pose Regression (Apr 2017)
+
 2D-3D Pose Consistency-based Conditional Random Fields for 3D Human Pose Estimation (Apr 2017)
+
 Lifting from the Deep: Convolutional 3D Pose Estimation from a Single Image (Jan 2017)
+
 Learning from Synthetic Humans (Jan 2017)
+
 MonoCap: Monocular Human Motion Capture using a CNN Coupled with a Geometric Prior (Jan 2017)
+
 3D Human Pose Estimation = 2D Pose Estimation + Matching (Dec 2016)
+
 3D Human Pose Estimation from a Single Image via Distance Matrix Regression (Nov 2016)
+
 Learning to Fuse 2D and 3D Image Cues for Monocular Body Pose Estimation (Nov 2016)
+
 Monocular 3D Human Pose Estimation In The Wild Using Improved CNN Supervision (Nov 2016)
+
 Coarse-to-Fine Volumetric Prediction for Single-Image 3D Human Pose (Nov 2016)
+
 Learning camera viewpoint using CNN to improve 3D body pose estimation (Sep 2016)
+
 EgoCap: Egocentric Marker-less Motion Capture with Two Fisheye Cameras (Sep 2016)
+
 Synthesizing Training Images for Boosting Human 3D Pose Estimation (Apr 2016)
+
 Seeing Invisible Poses: Estimating 3D Body Pose from Egocentric Video (Mar 2016) - Completely insane and above the scope of science
+
 Sparseness Meets Deepness: 3D Human Pose Estimation from Monocular Video (Nov 2015)
+
 A Dual-Source Approach for 3D Pose Estimation from a Single Image (Sep 2015)
 
 https://arxiv.org/pdf/1608.03075.pdf
