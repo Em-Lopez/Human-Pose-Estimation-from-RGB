@@ -141,7 +141,7 @@ https://github.com/dongzhuoyao/jessiechouuu-adversarial-pose
 
 https://github.com/cbsudux/awesome-human-pose-estimation
 
-https://github.com/cbsudux/awesome-human-pose-estimation
+https://github.com/horefice/Human-Pose-Estimation-from-RGB
 
 :package:[Dense Pose Transfer](https://arxiv.org/pdf/1809.01995.pdf) (Sep 2018)
 
