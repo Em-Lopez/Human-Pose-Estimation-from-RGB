@@ -41,37 +41,46 @@ I'll use the following icons and dimensions to differentiate the approaches:
 ###### Headcam, they use a very complicated ragdoll, also, just walking
 
 <b>:camera::camera::one::package:[3D Human Pose Estimation with Siamese Equivariant Embedding](https://arxiv.org/pdf/1809.07217.pdf) (Sep 2018) </b>
+
+<b>:package:[Dense Pose Transfer](https://arxiv.org/pdf/1809.01995.pdf) (Sep 2018)
+
+<b>:camera::one::package:[Synthetic Occlusion Augmentation with Volumetric Heatmaps for the 2018 ECCV PoseTrack Challenge on 3D Human Pose Estimation](https://arxiv.org/pdf/1809.04987v1.pdf) (Sep 2018) </b>
+
+<b>:camera::one::package: [Deep Textured 3D Reconstruction of Human Bodies](https://arxiv.org/pdf/1809.06547v1.pdf) (Sep 2018)</b>[[Project]](http://www.f-zhou.com/hpe.html)
+
 ###### Lets compare answers after doing our homework.
 
 <a name="Summer 2018"/>
 
 ### Summer 2018
 
-<b>:camera::one::package:[3D Human Pose Estimation with Relational Networks](https://arxiv.org/pdf/1805.08961v2.pdf) (Jul 2018) </b>
-###### Back bone connected to the shoulder bone, shoulder bone connected to the neck bone...
-
-<b>:camera::one::package:[Neural Body Fitting: Unifying Deep Learning and Model-Based Human Pose and Shape Estimation](https://arxiv.org/pdf/1808.05942.pdf) (Aug 2018) </b> [[Project]](http://github.com/mohomran/neural_body_fitting)
+<b>:camera::one::package:[Neural Body Fitting: Unifying Deep Learning and Model-Based Human Pose and Shape Estimation](https://arxiv.org/pdf/1808.05942.pdf) (Aug 2018) </b> [[CODE]](http://github.com/mohomran/neural_body_fitting)
 ###### Color Me Rad
-
-<b>:camera:one:package:[FBI-Pose: Towards Bridging the Gap between 2D Images and 3D Human Poses using Forward-or-Backward Information](https://arxiv.org/pdf/1806.09241) (Jun 2018) </b>
-###### Anderson Silva's leg
 
 <b>:camera::1234::package: [Single-Shot Multi-Person 3D Body Pose Estimation From Monocular RGB Input](https://arxiv.org/pdf/1712.03453.pdf) (Aug 2018)</b>
 ###### They use a ORPM, whatever that means. And they have some very obviouly green screened images.
+
+<b>:camera::one::package: [Rethinking Pose in 3D: Multi-stage Refinement and Recovery for Markerless Motion Capture](https://arxiv.org/pdf/1808.01525v1.pdf) (Aug 2018)</b>
+
+<b>:camera::one::package:[3D Human Pose Estimation with Relational Networks](https://arxiv.org/pdf/1805.08961v2.pdf) (Jul 2018) </b>
+###### Back bone connected to the shoulder bone, shoulder bone connected to the neck bone...
+
+<b>:camera:one:package:[FBI-Pose: Towards Bridging the Gap between 2D Images and 3D Human Poses using Forward-or-Backward Information](https://arxiv.org/pdf/1806.09241) (Jun 2018) </b>
+###### Anderson Silva's leg
 
 <a name="Spring 2018"/>
 
 ### Spring 2018
 
-<b>:movie_camera::1234::package: [LCR-Net++: Multi-person 2D and 3D Pose Detection in Natural Images](https://arxiv.org/pdf/1803.00455.pdf) (Mar 2018)</b> [[Project page]](https://thoth.inrialpes.fr/src/LCR-Net/)
+<b>:movie_camera::1234::package: [LCR-Net++: Multi-person 2D and 3D Pose Detection in Natural Images](https://arxiv.org/pdf/1803.00455.pdf) (Mar 2018)</b> [[Project]](https://thoth.inrialpes.fr/src/LCR-Net/)
 
-<b>:movie_camera::one::package: [MonoPerfCap: Human Performance Capture from Monocular Video](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/content/monoperfcap.pdf) (Mar 2018)</b> [[Project page]](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/)
+<b>:movie_camera::one::package: [MonoPerfCap: Human Performance Capture from Monocular Video](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/content/monoperfcap.pdf) (Mar 2018)</b> [[Project]](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/)
 
 <b>:camera::one::package: [3D Human Pose Estimation in the Wild by Adversarial Learning](https://arxiv.org/pdf/1803.09722.pdf) (Apr 2018)</b>
 
 <b>:camera::one::package: [Unsupervised Adversarial Learning of 3D Human Pose from 2D Joint Locations](https://arxiv.org/pdf/1803.08244.pdf) (Mar 2018)</b> [[Project page]](https://nico-opendata.jp/en/casestudy/3dpose_gan/index.html)
 
-<b>:movie_camera::one::package: [End-to-end Recovery of Human Shape and Pose](https://arxiv.org/pdf/1712.06584.pdf) (Jun 2018)</b> [[Project page]](https://github.com/akanazawa/hmr)
+<b>:movie_camera::one::package: [End-to-end Recovery of Human Shape and Pose](https://arxiv.org/pdf/1712.06584.pdf) (Jun 2018)</b> [[CODE]](https://github.com/akanazawa/hmr)
 
 <a name="Winter 2017"/>
 
@@ -83,27 +92,27 @@ I'll use the following icons and dimensions to differentiate the approaches:
 
 ### Fall 2018
 
-<b>:movie_camera::1234::door: [Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/pdf/1611.08050.pdf) (Apr 2017)</b> [[Project page]](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
+<b>:movie_camera::1234::door: [Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/pdf/1611.08050.pdf) (Apr 2017)</b> [[CODE]](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
 
 <b>:camera::one::door: [Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation](https://arxiv.org/pdf/1705.00389.pdf) (May 2017)</b>
 
-<b>:camera::one::package: [A simple yet effective baseline for 3d human pose estimation](https://arxiv.org/pdf/1705.03098.pdf) (Aug 2017)</b> [[Project page]](https://github.com/una-dinosauria/3d-pose-baseline)
+<b>:camera::one::package: [A simple yet effective baseline for 3d human pose estimation](https://arxiv.org/pdf/1705.03098.pdf) (Aug 2017)</b> [[CODE]](https://github.com/una-dinosauria/3d-pose-baseline)
 
-<b>:movie_camera::one::package: [VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera](http://gvv.mpi-inf.mpg.de/projects/VNect/content/VNect_SIGGRAPH2017.pdf) (July 2017)</b> [[Project page]](http://gvv.mpi-inf.mpg.de/projects/VNect/)
+<b>:movie_camera::one::package: [VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera](http://gvv.mpi-inf.mpg.de/projects/VNect/content/VNect_SIGGRAPH2017.pdf) (July 2017)</b> [[Project]](http://gvv.mpi-inf.mpg.de/projects/VNect/)
 
-<b>:camera::one::package: [Monocular 3D Human Pose Estimation In The Wild Using Improved CNN Supervision](https://arxiv.org/pdf/1611.09813.pdf) (Oct 2017)</b> [[Project page]](http://gvv.mpi-inf.mpg.de/3dhp-dataset/)
+<b>:camera::one::package: [Monocular 3D Human Pose Estimation In The Wild Using Improved CNN Supervision](https://arxiv.org/pdf/1611.09813.pdf) (Oct 2017)</b> [[Project]](http://gvv.mpi-inf.mpg.de/3dhp-dataset/)
 
 <b>:camera::one::package: [Learning to Fuse 2D and 3D Image Cues for Monocular Body Pose Estimation](https://arxiv.org/pdf/1611.05708.pdf) (Apr 2017)</b> 
 
 <b>:camera::one::package: [Lifting from the Deep: Convolutional 3D Pose Estimation from a Single Image](https://arxiv.org/pdf/1701.00295.pdf) (Oct 2017)</b>
 
-<b>:camera::one::package:[Knowledge-Guided Deep Fractal Neural Networks for Human Pose Estimation](https://arxiv.org/pdf/1705.02407.pdf) (Aug 2017) </b> [[Project]](http://github.com/Guanghan/GNet-pose)
+<b>:camera::one::package:[Knowledge-Guided Deep Fractal Neural Networks for Human Pose Estimation](https://arxiv.org/pdf/1705.02407.pdf) (Aug 2017) </b> [[CODE]](http://github.com/Guanghan/GNet-pose)
 
 <a name="2016"/>
 
 ### 2016
 
-<b>:movie_camera::one::package: [Sparseness Meets Deepness: 3D Human Pose Estimation from Monocular Video](https://arxiv.org/pdf/1511.09439.pdf) (Apr 2016)</b> [[Project Page]](http://cis.upenn.edu/~xiaowz/monocap.html)
+<b>:movie_camera::one::package: [Sparseness Meets Deepness: 3D Human Pose Estimation from Monocular Video](https://arxiv.org/pdf/1511.09439.pdf) (Apr 2016)</b> [[Project]](http://cis.upenn.edu/~xiaowz/monocap.html)
 
 <b>:camera::one::door: [Stacked Hourglass Networks for Human Pose Estimation](https://arxiv.org/pdf/1603.06937.pdf) (Jul 2016)</b>
 
@@ -115,11 +124,7 @@ I'll use the following icons and dimensions to differentiate the approaches:
 
 <b>:camera::one::package:[3D Human Pose Estimation Using Convolutional Neural Networks with 2D Pose Information](https://arxiv.org/pdf/1608.03075.pdf) (Sep 2016) </b>
 
-<b>:movie_camera::one::package: [Spatio-temporal Matching for Human Pose Estimation](http://www.f-zhou.com/hpe/2014_ECCV_STM.pdf) (Sep 2014)</b> [[Project page]](http://www.f-zhou.com/hpe.html)
-
-<b>:camera::one::package: [Deep Textured 3D Reconstruction of Human Bodies](https://arxiv.org/pdf/1809.06547v1.pdf) (Sep 2018)</b>[[Project page]](http://www.f-zhou.com/hpe.html)
-
-<b>:camera::one::package: [Rethinking Pose in 3D: Multi-stage Refinement and Recovery for Markerless Motion Capture](https://arxiv.org/pdf/1808.01525v1.pdf) (Aug 2018)</b> [[Project Page]]
+<b>:movie_camera::one::package: [Spatio-temporal Matching for Human Pose Estimation](http://www.f-zhou.com/hpe/2014_ECCV_STM.pdf) (Sep 2014)</b> [[Project]](http://www.f-zhou.com/hpe.html)
 
 
 Prioritize HOSTED CODE THIS IS THE MOST IMPORTANT FOR CLONING PURPOSES
@@ -143,17 +148,7 @@ https://github.com/cbsudux/awesome-human-pose-estimation
 
 https://github.com/horefice/Human-Pose-Estimation-from-RGB
 
-:package:[Dense Pose Transfer](https://arxiv.org/pdf/1809.01995.pdf) (Sep 2018)
-
-Synthetic Occlusion Augmentation with Volumetric Heatmaps for the 2018 ECCV PoseTrack Challenge on 3D Human Pose Estimation (Sep 2018)
-
-3D Human Pose Estimation with Siamese Equivariant Embedding - Good, but not suitable for my purposes. Two networks compare what they think of two different views of the same person. Siamese archetecutre comparing rotationally invariant output. (Sep 2018)
-
-Bio-LSTM: A Biomechanically Inspired Recurrent Neural Network for 3D Pedestrian Pose and Gait Prediction - This was written by a guy who doesn't understand the future is fuzzy logic. (I mean shit what about dogs and kids?) (Sep 2018)
-
 Deep Textured 3D Reconstruction of Human Bodies - Need depth cameras but Imma read anyway. They don't use depth on live, so it's legit, but this is blob based not bone based so no go. (Sep 2018)
-
-:package:[Neural Body Fitting: Unifying Deep Learning and Model-Based Human Pose and Shape Estimation](https://arxiv.org/pdf/1808.05942.pdf) [[CODE]](https://github.com/mohomran/neural_body_fitting) (Aug 2018)
 
 :door:[Human Pose Estimation with Parsing Induced Learner](http://openaccess.thecvf.com/content_cvpr_2018/papers/Nie_Human_Pose_Estimation_CVPR_2018_paper.pdf) (Jun 2018)
 
