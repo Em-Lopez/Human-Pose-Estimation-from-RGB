@@ -43,7 +43,7 @@ I'll use the following icons and dimensions to differentiate the approaches:
 <b>:camera::camera::one::package:[3D Human Pose Estimation with Siamese Equivariant Embedding](https://arxiv.org/pdf/1809.07217.pdf) (Sep 2018) </b>
 ###### Lets compare answers after doing our homework.
 
-<b>:package:[Dense Pose Transfer](https://arxiv.org/pdf/1809.01995.pdf) (Sep 2018)
+<b>:door:[Dense Pose Transfer](https://arxiv.org/pdf/1809.01995.pdf) (Sep 2018) </b>
 
 <b>:camera::one::package:[Synthetic Occlusion Augmentation with Volumetric Heatmaps for the 2018 ECCV PoseTrack Challenge on 3D Human Pose Estimation](https://arxiv.org/pdf/1809.04987v1.pdf) (Sep 2018) </b>
 
