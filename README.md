@@ -142,10 +142,9 @@ bone representation vs joint coordinates
 
 https://arxiv.org/pdf/1608.03075.pdf
 
-Gesture and Sign Language Recognition with Deep Learning(Easy Friendly Guide)](https://biblio.ugent.be/publication/8573066/file/8573068)
+First off, there ought to be a state of the art 2d pose detector, this is crucial. This 2d pose detector can return colored limbs corresponding to each body part, heat maps corresponding to joins, and FBI switches corresponding to limb direction in the z axis. Ideally the network, when extrapolating 2d pose to 3d information should take into account the previous frame, and an internalized GAN representation of what human poses can look like. Additionally, physics simulations of body mechanics can be used, as well as reprojection of 3d joints back to 2d geometery. Additionally, there can be two cameras in operation, and these two cameras should return the same 3d pose. Additionally the 3d pose can be iteratively refined. Additionally there should be 3d pose standarization. Additionally 2d pose should be done well.
 
-SO CHECK IT, I want like a off the shelf state-of-the-art 2d pose heatmap detector, with FBI polarity switches on the joints, hear? I want like a recurrent neural network that does video frame extrapolation. I want a generator network that gives me a bunch of funky poses and a discriminator that throws 'em, and a thing that runs on physics, like actual physics!
-OK LIKE SERIOUSLY, HAS ANBODY ACTUALLY GONE AND MADE A TIME DEPENDENT NEURAL NETWORK, INSTEAD OF SOME HACKED TOGETHER AFTERTHOUGHT FUZZ FILTER FOR POSES. I DON'T LIKE THE JITTER AND LITTERALLY YOU'RE THROWING HALF THE GOOD INFORMATION AWAY, ONLY TO RECOMPUTE IT THE NEXT 30TH OF A SECOND!! THIS IS NOT how humans PROCESS VIDEO FEEDS!!!
+Gesture and Sign Language Recognition with Deep Learning(Easy Friendly Guide)](https://biblio.ugent.be/publication/8573066/file/8573068)
 
 https://github.com/Bob130/Human-Pose-Estimation-Papers
 
@@ -273,6 +272,8 @@ Coarse-to-Fine Volumetric Prediction for Single-Image 3D Human Pose (Nov 2016)
 Learning camera viewpoint using CNN to improve 3D body pose estimation (Sep 2016)
 
 EgoCap: Egocentric Marker-less Motion Capture with Two Fisheye Cameras (Sep 2016)
+
+3D Human Pose Estimation Using Convolutional... (Aug 201
 
 :package:[Structured Prediction of 3D Human Pose with Deep Neural Networks](https://arxiv.org/pdf/1605.05180.pdf) (May 2016)
 
