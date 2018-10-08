@@ -44,8 +44,10 @@ I'll use the following icons and dimensions to differentiate the approaches:
 ###### Lets compare answers after doing our homework.
 
 <b>:door:[Dense Pose Transfer](https://arxiv.org/pdf/1809.01995.pdf) (Sep 2018) </b>
+###### Coloring book the shape of a person, machine uses imagination to fill in the details, then animates it's paper statue
 
 <b>:camera::one::package:[Synthetic Occlusion Augmentation with Volumetric Heatmaps for the 2018 ECCV PoseTrack Challenge on 3D Human Pose Estimation](https://arxiv.org/pdf/1809.04987v1.pdf) (Sep 2018) </b>
+###### They block their face and body with cheap photoshop techniques, then the machine has to "x-ray" through all that
 
 <a name="Summer 2018"/>
 
@@ -137,12 +139,18 @@ I'll use the following icons and dimensions to differentiate the approaches:
 [HumanEva](http://humaneva.is.tue.mpg.de/)
 [MPI-INF-3DHP](http://gvv.mpi-inf.mpg.de/3dhp-dataset/)
 [Unite The People](http://files.is.tuebingen.mpg.de/classner/up/)
+[Pose Guided Person Image Generation](https://arxiv.org/pdf/1705.09368.pdf) - [[CODE]](https://github.com/charliememory/Pose-Guided-Person-Image-Generation) - Ma, L., Jia, X., Sun, Q., Schiele, B., Tuytelaars, T., & Gool, L.V. (NIPS 2017)
+[A Generative Model of People in Clothing](https://arxiv.org/pdf/1705.04098.pdf) - Lassner, C., Pons-Moll, G., & Gehler, P.V. (ICCV 2017)
+[Deformable GANs for Pose-based Human Image Generation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Siarohin_Deformable_GANs_for_CVPR_2018_paper.pdf) - [[CODE]](https://github.com/AliaksandrSiarohin/pose-gan) - Siarohin, A., Sangineto, E., Lathuilière, S., & Sebe, N. (CVPR 2018)
+[Dense Pose Transfer](https://arxiv.org/pdf/1809.01995.pdf) - Neverova, N., Guler, R.A., & Kokkinos, I. (ECCV 2018)
 
 Prioritize HOSTED CODE THIS IS THE MOST IMPORTANT FOR CLONING PURPOSES
 Priositize DATE        THIS IS THE SECOND MOST BECAUSE IT WILL BUILD ON PREVIOUS WORK
 Prioritize 3d/2d       
 Human 3.6m
 bone representation vs joint coordinates
+
+
 
 ## Guide
 
@@ -159,7 +167,6 @@ bone representation vs joint coordinates
 [HoreFice](https://github.com/horefice/Human-Pose-Estimation-from-RGB)
 
 First off, there ought to be a state of the art 2d pose detector, this is crucial. This 2d pose detector can return colored limbs corresponding to each body part, heat maps corresponding to joins, and FBI switches corresponding to limb direction in the z axis. Ideally the network, when extrapolating 2d pose to 3d information should take into account the previous frame, and an internalized GAN representation of what human poses can look like. Additionally, physics simulations of body mechanics can be used, as well as reprojection of 3d joints back to 2d geometery. Additionally, there can be two cameras in operation, and these two cameras should return the same 3d pose. Additionally the 3d pose can be iteratively refined. Additionally there should be 3d pose standarization. Additionally 2d pose should be done well.
-
 
 <b>:camera::one::package: [Deep Textured 3D Reconstruction of Human Bodies](https://arxiv.org/pdf/1809.06547v1.pdf) (Sep 2018)</b>[[Project]](http://www.f-zhou.com/hpe.html)
 ###### I'm going to make a replica out of you from too soft clay. Not relevant since blob based.
