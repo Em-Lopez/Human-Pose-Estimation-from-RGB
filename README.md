@@ -74,6 +74,7 @@ I'll use the following icons and dimensions to differentiate the approaches:
 <b>:package:[DRPose3D: Depth Ranking in 3D Human Pose Estimation](https://arxiv.org/pdf/1805.08973.pdf) (May 2018) </b>
 
 <b>:movie_camera::one::package: [MonoPerfCap: Human Performance Capture from Monocular Video](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/content/monoperfcap.pdf) (Mar 2018)</b> [[Project]](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/)
+###### makes a 3d replica of you without the expensive camera sphere
 
 <b>:movie_camera::one::package: [End-to-end Recovery of Human Shape and Pose](https://arxiv.org/pdf/1712.06584.pdf) (Jun 2018)</b> [[CODE]](https://github.com/akanazawa/hmr)
 
