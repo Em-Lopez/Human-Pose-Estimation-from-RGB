@@ -45,6 +45,7 @@ I'll use the following icons and dimensions to differentiate the approaches:
 
 <b>:door:[Dense Pose Transfer](https://arxiv.org/pdf/1809.01995.pdf) (Sep 2018) </b>
 
+
 <b>:camera::one::package:[Synthetic Occlusion Augmentation with Volumetric Heatmaps for the 2018 ECCV PoseTrack Challenge on 3D Human Pose Estimation](https://arxiv.org/pdf/1809.04987v1.pdf) (Sep 2018) </b>
 
 <a name="Summer 2018"/>
@@ -130,9 +131,10 @@ I'll use the following icons and dimensions to differentiate the approaches:
 
 ## DataSets
 
-Coco
-Human3.6
-Syn Human frankenstien monstrosity
+[Human3.6M](http://vision.imar.ro/human3.6m/description.php)
+[HumanEva](http://humaneva.is.tue.mpg.de/)
+[MPI-INF-3DHP](http://gvv.mpi-inf.mpg.de/3dhp-dataset/)
+[Unite The People](http://files.is.tuebingen.mpg.de/classner/up/)
 
 Prioritize HOSTED CODE THIS IS THE MOST IMPORTANT FOR CLONING PURPOSES
 Priositize DATE        THIS IS THE SECOND MOST BECAUSE IT WILL BUILD ON PREVIOUS WORK
