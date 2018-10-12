@@ -169,7 +169,8 @@ First off, there ought to be a state of the art 2d pose detector, this is crucia
 <b>:camera::one::package: [Deep Textured 3D Reconstruction of Human Bodies](https://arxiv.org/pdf/1809.06547v1.pdf) (Sep 2018)</b>[[Project]](http://www.f-zhou.com/hpe.html)
 ###### I'm going to make a replica out of you from too soft clay. Not relevant since blob based.
 
-It's all Relative: Monocular 3D Human Pose Estimation from Weakly Supervised Data (May 2018)
+<b>:camera::one::package:[It's all Relative: Monocular 3D Human Pose Estimation from Weakly Supervised Data](https://arxiv.org/pdf/1805.06880v2.pdf) (May 2018)
+###### Crowd sourced relative depth annotations
 
 :package:[Unsupervised Geometry-Aware Representation for 3D Human Pose Estimation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Helge_Rhodin_Unsupervised_Geometry-Aware_Representation_ECCV_2018_paper.pdf)  [[CODE]](https://github.com/hrhodin/UnsupervisedGeometryAwareRepresentationLearning)  (Apr 2018)
 
