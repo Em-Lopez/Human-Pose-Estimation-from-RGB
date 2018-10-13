@@ -28,10 +28,10 @@ Because it is such a new field I will be organizing these by date, since recent 
 ### Fall 2018
 
 <b>:camera::one::package:[Deep 3D Human Pose Estimation Under Partial Body Presence
-](https://ieeexplore.ieee.org/document/8451031) (Oct 2018)</b>
+](https://ieeexplore.ieee.org/document/8451031) (Oct 2018) </b>
 ###### My legs have been chopped off
 
-<b>:camera::one::package:[3D Human Pose Estimation Using Stochastic Optimization In Real Time](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8451427) (Oct 2018)</b>
+<b>:camera::one::package:[3D Human Pose Estimation Using Stochastic Optimization In Real Time](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8451427) (Oct 2018) </b>
 ###### Again and again, This is depth based, but the process of using iterations can be applied to pure RGB
 
 <b>:camera::one::package:[Adversarial 3D Human Pose Estimation via Multimodal Depth Supervision](https://arxiv.org/pdf/1809.07921v1.pdf) (Sep 2018) </b>
@@ -59,10 +59,10 @@ Because it is such a new field I will be organizing these by date, since recent 
 <b>:camera::one::package:[Neural Body Fitting: Unifying Deep Learning and Model-Based Human Pose and Shape Estimation](https://arxiv.org/pdf/1808.05942.pdf) (Aug 2018) </b> [[CODE]](http://github.com/mohomran/neural_body_fitting)
 ###### Color Me Rad
 
-<b>:camera::1234::package: [Single-Shot Multi-Person 3D  Body Pose Estimation From Monocular RGB Input](https://arxiv.org/pdf/1712.03453.pdf) (Aug 2018)</b>
+<b>:camera::1234::package: [Single-Shot Multi-Person 3D  Body Pose Estimation From Monocular RGB Input](https://arxiv.org/pdf/1712.03453.pdf) (Aug 2018) </b>
 ###### They use a ORPM, whatever that means. And they have some very obviouly green screened images.
 
-<b>:camera::one::package: [Rethinking Pose in 3D: Multi-stage Refinement and Recovery for Markerless Motion Capture](https://arxiv.org/pdf/1808.01525v1.pdf) (Aug 2018)</b>
+<b>:camera::one::package: [Rethinking Pose in 3D: Multi-stage Refinement and Recovery for Markerless Motion Capture](https://arxiv.org/pdf/1808.01525v1.pdf) (Aug 2018) </b>
 
 <b>:camera::one::package:[3D Human Pose Estimation with Relational Networks](https://arxiv.org/pdf/1805.08961v2.pdf) (Jul 2018) </b>
 ###### Back bone connected to the shoulder bone, shoulder bone connected to the neck bone...
@@ -83,53 +83,53 @@ Because it is such a new field I will be organizing these by date, since recent 
 <b>:camera::one::package:[It's all Relative: Monocular 3D Human Pose Estimation from Weakly Supervised Data](https://arxiv.org/pdf/1805.06880v2.pdf) (May 2018) </b>
 ###### Crowd sourced relative depth annotations
 
-:package:[BodyNet: Volumetric Inference of 3D Human Body Shapes](https://arxiv.org/pdf/1804.04875v3.pdf) [[CODE]](https://github.com/gulvarol/bodynet) (Apr 2018)
+<b>:package:[BodyNet: Volumetric Inference of 3D Human Body Shapes](https://arxiv.org/pdf/1804.04875v3.pdf) [[CODE]](https://github.com/gulvarol/bodynet) (Apr 2018) </b>
 ###### Make a statue of michealangelo in minecraft
 
 <b>:package:[Unsupervised Geometry-Aware Representation for 3D Human Pose Estimation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Helge_Rhodin_Unsupervised_Geometry-Aware_Representation_ECCV_2018_paper.pdf)  [[CODE]](https://github.com/hrhodin/UnsupervisedGeometryAwareRepresentationLearning)  (Apr 2018) </b>
 ###### It rotates the person with it's eyes. (Insert reference to undressing with eyes here)
 
-<b>:movie_camera::one::package: [MonoPerfCap: Human Performance Capture from Monocular Video](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/content/monoperfcap.pdf) (Mar 2018)</b> [[Project]](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/)
+<b>:movie_camera::one::package: [MonoPerfCap: Human Performance Capture from Monocular Video](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/content/monoperfcap.pdf) (Mar 2018) </b> [[Project]](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/)
 ###### makes a 3d replica of you like a fully featured action figure
 
-:package:[Learning to Estimate 3D Human Pose and Shape from a Single Color Image](http://openaccess.thecvf.com/content_cvpr_2018/papers/Pavlakos_Learning_to_Estimate_CVPR_2018_paper.pdf) (May 2018)
+<b>:package:[Learning to Estimate 3D Human Pose and Shape from a Single Color Image](http://openaccess.thecvf.com/content_cvpr_2018/papers/Pavlakos_Learning_to_Estimate_CVPR_2018_paper.pdf) (May 2018) </b>
 ###### SMPL brand Artist's Mannequin
 
-<b>:camera::one::package: [3D Human Pose Estimation in the Wild by Adversarial Learning](https://arxiv.org/pdf/1803.09722.pdf) (Mar 2018)</b>
+<b>:camera::one::package: [3D Human Pose Estimation in the Wild by Adversarial Learning](https://arxiv.org/pdf/1803.09722.pdf) (Mar 2018) </b>
 ###### 
 
-<b>:movie_camera::1234::package: [LCR-Net++: Multi-person 2D and 3D Pose Detection in Natural Images](https://arxiv.org/pdf/1803.00455.pdf) (Mar 2018)</b> [[Project]](https://thoth.inrialpes.fr/src/LCR-Net/)
+<b>:movie_camera::1234::package: [LCR-Net++: Multi-person 2D and 3D Pose Detection in Natural Images](https://arxiv.org/pdf/1803.00455.pdf) (Mar 2018) </b> [[Project]](https://thoth.inrialpes.fr/src/LCR-Net/)
 ###### 
 
-<b>:camera::one::package: [Unsupervised Adversarial Learning of 3D Human Pose from 2D Joint Locations](https://arxiv.org/pdf/1803.08244.pdf) (Mar 2018)</b> [[Project page]](https://nico-opendata.jp/en/casestudy/3dpose_gan/index.html)
+<b>:camera::one::package: [Unsupervised Adversarial Learning of 3D Human Pose from 2D Joint Locations](https://arxiv.org/pdf/1803.08244.pdf) (Mar 2018) </b> [[Project page]](https://nico-opendata.jp/en/casestudy/3dpose_gan/index.html)
 ###### 
 
 <a name="Winter 2017"/>
 
 ### Winter 2017
-<b>:movie_camera::one::package: [End-to-end Recovery of Human Shape and Pose](https://arxiv.org/pdf/1712.06584.pdf) (Dec 2017)</b> [[CODE]](https://github.com/akanazawa/hmr)
+<b>:movie_camera::one::package: [End-to-end Recovery of Human Shape and Pose](https://arxiv.org/pdf/1712.06584.pdf) (Dec 2017) </b> [[CODE]](https://github.com/akanazawa/hmr)
 ###### 
 
-<b>:camera::1234::package: [DensePose: Dense Human Pose Estimation In The Wild](https://arxiv.org/pdf/1802.00434.pdf) [[CODE]](https://github.com/facebookresearch/Densepose) (Feb 2018)</b> [[Project page]](http://densepose.org)
+<b>:camera::1234::package: [DensePose: Dense Human Pose Estimation In The Wild](https://arxiv.org/pdf/1802.00434.pdf) [[CODE]](https://github.com/facebookresearch/Densepose) (Feb 2018) </b> [[Project page]](http://densepose.org)
 ###### 
 
 <a name="Fall 2018"/>
 
 ### Fall 2018
 
-<b>:movie_camera::1234::door: [Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/pdf/1611.08050.pdf) (Apr 2017)</b> [[CODE]](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
+<b>:movie_camera::1234::door: [Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/pdf/1611.08050.pdf) (Apr 2017) </b> [[CODE]](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
 ###### 
 
-<b>:camera::one::door: [Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation](https://arxiv.org/pdf/1705.00389.pdf) (May 2017)</b>
+<b>:camera::one::door: [Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation](https://arxiv.org/pdf/1705.00389.pdf) (May 2017) </b>
 ###### 
 
-<b>:camera::one::package: [A simple yet effective baseline for 3d human pose estimation](https://arxiv.org/pdf/1705.03098.pdf) (Aug 2017)</b> [[CODE]](https://github.com/una-dinosauria/3d-pose-baseline)
+<b>:camera::one::package: [A simple yet effective baseline for 3d human pose estimation](https://arxiv.org/pdf/1705.03098.pdf) (Aug 2017) </b> [[CODE]](https://github.com/una-dinosauria/3d-pose-baseline)
 ###### 
 
 <b>:movie_camera::one::package: [VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera](http://gvv.mpi-inf.mpg.de/projects/VNect/content/VNect_SIGGRAPH2017.pdf) [[CODE]](https://github.com/timctho/VNect-tensorflow) (Jul 2017) </b> [[Project]](http://gvv.mpi-inf.mpg.de/projects/VNect/)
 ###### 
 
-<b>:camera::one::package: [Lifting from the Deep: Convolutional 3D Pose Estimation from a Single Image](https://arxiv.org/pdf/1701.00295.pdf) (Oct 2017)</b>
+<b>:camera::one::package: [Lifting from the Deep: Convolutional 3D Pose Estimation from a Single Image](https://arxiv.org/pdf/1701.00295.pdf) (Oct 2017) </b>
 ###### 
 
 <b>:camera::one::package:[Knowledge-Guided Deep Fractal Neural Networks for Human Pose Estimation](https://arxiv.org/pdf/1705.02407.pdf) (Aug 2017) </b> [[CODE]](http://github.com/Guanghan/GNet-pose)
@@ -138,22 +138,22 @@ Because it is such a new field I will be organizing these by date, since recent 
 <a name="2016"/>
 
 ### 2016
-<b>:camera::one::package: [Learning to Fuse 2D and 3D Image Cues for Monocular Body Pose Estimation](https://arxiv.org/pdf/1611.05708.pdf) (Nov 2016)</b> 
+<b>:camera::one::package: [Learning to Fuse 2D and 3D Image Cues for Monocular Body Pose Estimation](https://arxiv.org/pdf/1611.05708.pdf) (Nov 2016) </b> 
 ###### 
 
-<b>:camera::one::package: [Monocular 3D Human Pose Estimation In The Wild Using Improved CNN Supervision](https://arxiv.org/pdf/1611.09813.pdf) (Nov 2016)</b> [[Project]](http://gvv.mpi-inf.mpg.de/3dhp-dataset/)
+<b>:camera::one::package: [Monocular 3D Human Pose Estimation In The Wild Using Improved CNN Supervision](https://arxiv.org/pdf/1611.09813.pdf) (Nov 2016) </b> [[Project]](http://gvv.mpi-inf.mpg.de/3dhp-dataset/)
 ###### 
 
-<b>:camera::one::package: [MoCap-guided Data Augmentation for 3D Pose Estimation in the Wild](https://arxiv.org/pdf/1607.02046.pdf) (Oct 2016)</b>
+<b>:camera::one::package: [MoCap-guided Data Augmentation for 3D Pose Estimation in the Wild](https://arxiv.org/pdf/1607.02046.pdf) (Oct 2016) </b>
 ###### 
 
 <b>:camera::one::package:[3D Human Pose Estimation Using Convolutional Neural Networks with 2D Pose Information](https://arxiv.org/pdf/1608.03075.pdf) (Sep 2016) </b>
 ###### 
 
-<b>:movie_camera::one::package: [Spatio-temporal Matching for Human Pose Estimation](http://www.f-zhou.com/hpe/2014_ECCV_STM.pdf) (Sep 2014)</b> [[Project]](http://www.f-zhou.com/hpe.html)
+<b>:movie_camera::one::package: [Spatio-temporal Matching for Human Pose Estimation](http://www.f-zhou.com/hpe/2014_ECCV_STM.pdf) (Sep 2014) </b> [[Project]](http://www.f-zhou.com/hpe.html)
 ###### 
 
-<b>:camera::one::package: [Keep it SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image](https://arxiv.org/pdf/1607.08128.pdf) (Jul 2016)</b>
+<b>:camera::one::package: [Keep it SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image](https://arxiv.org/pdf/1607.08128.pdf) (Jul 2016) </b>
 ###### 
 
 <b>:camera::one::door: [Stacked Hourglass Networks for Human Pose Estimation](https://arxiv.org/pdf/1603.06937.pdf) [[CODE]](https://github.com/umich-vl/pose-hg-demo) (Mar 2016) </b>
@@ -164,7 +164,7 @@ Because it is such a new field I will be organizing these by date, since recent 
 
 ### 2014 & 2015
 
-<b>:movie_camera::one::package: [Sparseness Meets Deepness: 3D Human Pose Estimation from Monocular Video](https://arxiv.org/pdf/1511.09439.pdf) (Nov 2015)</b> [[Project]](http://cis.upenn.edu/~xiaowz/monocap.html)
+<b>:movie_camera::one::package: [Sparseness Meets Deepness: 3D Human Pose Estimation from Monocular Video](https://arxiv.org/pdf/1511.09439.pdf) (Nov 2015) </b> [[Project]](http://cis.upenn.edu/~xiaowz/monocap.html)
 ######
 
 ## DataSets
