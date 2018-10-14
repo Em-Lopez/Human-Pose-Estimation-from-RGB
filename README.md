@@ -4,9 +4,8 @@ In recent years, tremendous amount of progress is being made in the field of Hum
 ## Get Involved
 To make it a collaborative project, you may add content through pull requests or open an issue to let me know. 
 
-## Table of Contents
-
-Because it is such a new field I will be organizing these by date, since recent papers generally have use methods. I'll use the following icons and dimensions to differentiate the approaches:
+## How this is sorted
+The projects and papers are first sorted by Season. I do this, because it is such a new field that newer papers are bound to be influenced by older papers. Below every publication is a memorable, but very short, description. This is neccessary since so many papers have similar titles. After all that the papers are sorted by month, then alphabet.
 
 - Time Dimension
 	- :camera: Single-Shot 
