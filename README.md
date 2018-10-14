@@ -5,7 +5,7 @@ In recent years, tremendous amount of progress is being made in the field of Hum
 To make it a collaborative project, you may add content through pull requests or open an issue to let me know. 
 
 ## How this is sorted
-The projects and papers are first sorted by Season. I do this, because it is such a new field that newer papers are bound to be influenced by older papers. Below every publication is a memorable, but very short, description. This is neccessary since so many papers have similar titles. After all that the papers are sorted by month, then alphabet.
+The projects and papers are season, then month, then alphabet. Newer papers are usually more sophisticated than older ones. I also do this to make removing duplicates easier. Below the publications are short, memorable bite sized summaries. This is neccessary since so many papers have similar titles.
 
 - Time Dimension
 	- :camera: Single-Shot 
@@ -28,35 +28,35 @@ The projects and papers are first sorted by Season. I do this, because it is suc
 
 <b>:camera::one::package:[Deep 3D Human Pose Estimation Under Partial Body Presence
 ](https://ieeexplore.ieee.org/document/8451031) </b> (Oct 2018)
-###### My legs have been chopped off
+###### My legs have been chopped off, and my head, but tis but a scratch.
 
 <b>:camera::one::package:[3D Human Pose Estimation Using Stochastic Optimization In Real Time](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8451427) </b> (Oct 2018)
-###### Again and again, This is depth based, but the process of using iterations can be applied to pure RGB
+###### Try again and again, till you get it right. Uses depth based sensors. RTW + Particle Swarms
 
 <b>:camera::one::package:[Adversarial 3D Human Pose Estimation via Multimodal Depth Supervision](https://arxiv.org/pdf/1809.07921v1.pdf) </b> (Sep 2018)
-###### Continuation of FBI work, also got multimodal network now.
+###### Continuation of FBI work, also got multimodal network now. IDK What that means
 
 <b>:camera::one::package: [Deep Textured 3D Reconstruction of Human Bodies](https://arxiv.org/pdf/1809.06547v1.pdf) </b>[[Project]](http://www.f-zhou.com/hpe.html) (Sep 2018)
-###### I'm going to make a replica out of you from too soft clay. Not relevant since blob based.
+###### I'll make a replica out of you from soggy clay. Depth training, regular camera tests
 
 <b>:door:[Dense Pose Transfer](https://arxiv.org/pdf/1809.01995.pdf) </b> (Sep 2018)
-###### Coloring book the shape of a person, machine uses imagination to fill in the details, then animates it's paper statue
+###### color in a mannequin, a machine imagines the details, then animates it's paper statue
 
 <b>:camera::one::package:[3D Ego-Pose Estimation via Imitation Learning](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ye_Yuan_3D_Ego-Pose_Estimation_ECCV_2018_paper.pdf) </b> (Sep 2018)
-###### Headcam, they use a very complicated ragdoll, also, just walking
+###### Headcam, they use a very complicated ragdoll, also, just walking and running
 
 <b>:camera::camera::one::package:[3D Human Pose Estimation with Siamese Equivariant Embedding](https://arxiv.org/pdf/1809.07217.pdf) </b> (Sep 2018)
-###### Lets compare answers after doing our homework.
+###### Twins compare their answers after doing their math homework. (Homework refers to the 3d pose estimation)
 
 <b>:camera::one::package:[Synthetic Occlusion Augmentation with Volumetric Heatmaps for the 2018 ECCV PoseTrack Challenge on 3D Human Pose Estimation](https://arxiv.org/pdf/1809.04987v1.pdf) </b> (Sep 2018)
-###### They block their face and body with cheap photoshop techniques, then the machine has to "x-ray" through all that
+###### They block their face and body with cheap photoshop techniques, then the machine has to "x-ray" through all that.
 
 <a name="Summer 2018"/>
 
 ### Summer 2018
 
 <b>:camera::one::package:[Neural Body Fitting: Unifying Deep Learning and Model-Based Human Pose and Shape Estimation](https://arxiv.org/pdf/1808.05942.pdf) </b> [[CODE]](http://github.com/mohomran/neural_body_fitting) (Aug 2018)
-###### Color Me Rad
+###### The circle of 3D pose estimation. 2d Image -> 2d Color Me Rad guy -> 3d pudgy man -> photograph of said man -> 2d Image
 
 <b>:camera::1234::package: [Single-Shot Multi-Person 3D  Body Pose Estimation From Monocular RGB Input](https://arxiv.org/pdf/1712.03453.pdf) </b> (Aug 2018)
 ###### They use a ORPM, whatever that means. And they have some very obviouly green screened images.
@@ -239,9 +239,6 @@ First off, there ought to be a state of the art 2d pose detector, this is crucia
 [Human Pose As Calibration Pattern; 3D Human Pose Estimation With Multiple Unsynchronized and Uncalibrated Cameras](http://openaccess.thecvf.com/content_cvpr_2018_workshops/w34/html/Takahashi_Human_Pose_As_CVPR_2018_paper.html) (Jun 2018)
 
 [Stacked dense-hourglass networks for human pose estimation](https://www.ideals.illinois.edu/handle/2142/101155) (Apr 2018)
-
-:package:[BodyNet: Volumetric Inference of 3D Human Body Shapes](https://arxiv.org/pdf/1804.04875v3.pdf) [[CODE]](https://github.com/gulvarol/bodynet) (Apr 2018)
-###### Make a statue of michealangelo in minecraft
 
 :door:[Simple Baselines for Human Pose Estimation and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Simple_Baselines_for_ECCV_2018_paper.pdf) [[CODE]](https://github.com/Microsoft/human-pose-estimation.pytorch) (Apr 2018)
 
