@@ -205,17 +205,6 @@ MPII POSE
 ## My personal goals:
 
 
-
-:package:[BodyNet: Volumetric Inference of 3D Human Body Shapes](https://arxiv.org/pdf/1804.04875v3.pdf) [[CODE]](https://github.com/gulvarol/bodynet) (Apr 2018)
-###### Make a statue of michealangelo in minecraft
-
-
-
-
-
-
-
-
 I'd like to find a project I can clone. 
 I'd like to find a recent project. 
 I'd like to find a project with the 3d work done. 
@@ -223,15 +212,52 @@ I'd like to find a project that can integrate with SteamVR. (bone locations inst
 
 First off, there ought to be a state of the art 2d pose detector, this is crucial. This 2d pose detector can return colored limbs corresponding to each body part, heat maps corresponding to joins, and FBI switches corresponding to limb direction in the z axis. Ideally the network, when extrapolating 2d pose to 3d information should take into account the previous frame, and an internalized GAN representation of what human poses can look like. Additionally, physics simulations of body mechanics can be used, as well as reprojection of 3d joints back to 2d geometery. Additionally, there can be two cameras in operation, and these two cameras should return the same 3d pose. Additionally the 3d pose can be iteratively refined. Additionally there should be 3d pose standarization. Additionally 2d pose should be done well.
 
+[Domain Transfer for 3D Pose Estimation from Color Images without Manual Annotations](https://arxiv.org/pdf/1810.03707v1) (Oct 2018)
+
+[Context-Aware Deep Spatio-Temporal Network for Hand Pose Estimation from Depth Images](https://arxiv.org/pdf/1810.02994v1) (Oct 2018)
+
+[Cascaded Pyramid Network for 3D Human Pose Estimation Challenge](https://arxiv.org/pdf/1810.01616v1) (Oct 2018)
+
+[Propagating LSTM: 3D Pose Estimation based on Joint Interdependency](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kyoungoh_Lee_Propagating_LSTM_3D_ECCV_2018_paper.pdf) (Sep 2018)
+
+[Human pose estimation method based on single depth image](http://digital-library.theiet.org/content/journals/10.1049/iet-cvi.2017.0536) (Sep 2018)
+
+[Deeply Learned Compositional Models for Human Pose Estimation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Wei_Tang_Deeply_Learned_Compositional_ECCV_2018_paper.pdf) (Sep 2018)
+
+[Exploiting temporal information for 3D human pose estimation](http://openaccess.thecvf.com/content_ECCV_2018/html/Mir_Rayat_Imtiaz_Hossain_Exploiting_temporal_information_ECCV_2018_paper.html) (Sep 2018)
+
+[Hockey Pose Estimation and Action Recognition using Convolutional Neural Networks to Ice Hockey][https://uwspace.uwaterloo.ca/handle/10012/13835] (Sep 2018)
+
+[Learning Robust Features and Latent Representations for Single View 3D Pose Estimation of Humans and Objects]() (Sep 2018)
+
+[Human Pose Estimation Based on Deep Neural Network](https://ieeexplore.ieee.org/abstract/document/8455245) (Jul 2018)
+
+[A Review of Human Pose Estimation from Single Image](https://ieeexplore.ieee.org/abstract/document/8455796) (Jul 2018)
+
+[3-D Reconstruction of Human Body Shape from a Single Commodity Depth Camera](https://ieeexplore.ieee.org/abstract/document/8371630) (Jun 2018)
+
+[Human Pose As Calibration Pattern; 3D Human Pose Estimation With Multiple Unsynchronized and Uncalibrated Cameras](http://openaccess.thecvf.com/content_cvpr_2018_workshops/w34/html/Takahashi_Human_Pose_As_CVPR_2018_paper.html) (Jun 2018)
+
+[Stacked dense-hourglass networks for human pose estimation](https://www.ideals.illinois.edu/handle/2142/101155) (Apr 2018)
+
+:package:[BodyNet: Volumetric Inference of 3D Human Body Shapes](https://arxiv.org/pdf/1804.04875v3.pdf) [[CODE]](https://github.com/gulvarol/bodynet) (Apr 2018)
+###### Make a statue of michealangelo in minecraft
+
 :door:[Simple Baselines for Human Pose Estimation and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Simple_Baselines_for_ECCV_2018_paper.pdf) [[CODE]](https://github.com/Microsoft/human-pose-estimation.pytorch) (Apr 2018)
 
 [A generalizable approach for multi-view 3D human pose regression](https://arxiv.org/pdf/1804.10462.pdf) (Apr 2018)
+
+[A Deep Learning Based Method For 3D Human Pose Estimation From 2D Fisheye Images](https://pdfs.semanticscholar.org/8ff8/840a418f9202a33fae08997afcd2da6b19f2.pdf) (Mar 2018)
+
+[A Unified Framework for Multi-View Multi-Class Object Pose Estimation](https://arxiv.org/pdf/1803.08103v2) (Mar 2018)
 
 Learning Monocular 3D Human Pose Estimation from Multi-view Images (Mar 2018)
 
 Multi-Scale Structure-Aware Network for Human Pose Estimation (Mar 2018)
 
 Mo2Cap2: Real-time Mobile 3D Motion Capture with a Cap-mounted Fisheye Camera (Mar 2018)
+
+[Hierarchical graphical-based human pose estimation via local multi-resolution convolutional neural network](https://aip.scitation.org/doi/full/10.1063/1.5024463) (Feb 2018)
 
 Image-based Synthesis for Deep 3D Human Pose Estimation (Feb 2018)
 
@@ -247,6 +273,9 @@ Using a single RGB frame for real time 3D hand pose estimation in the wild (Dec 
 
 Exploiting temporal information for 3D pose estimation (Nov 2017)
 
+[Human Pose Retrieval for Image and Video collections](http://ir.inflibnet.ac.in:8080/jspui/handle/10603/168240) (Oct 2017)
+###### A search engine for dancers
+
 :door:[Human Pose Estimation Using Global and Local Normalization](https://arxiv.org/pdf/1709.07220.pdf) (Sep 2017)
 
 :door:[Learning Feature Pyramids for Human Pose Estimation](https://arxiv.org/pdf/1708.01101.pdf) [[CODE]](https://github.com/bearpaw/PyraNet) (Aug 2017)
@@ -258,6 +287,8 @@ Exploiting temporal information for 3D pose estimation (Nov 2017)
 Learning Human Pose Models from Synthesized Data for Robust RGB-D Action Recognition (Jul 2017)
 
 Faster Than Real-time Facial Alignment: A 3D Spatial Transformer Network Approach in Unconstrained Poses (Jul 2017)
+
+[A Dual-Source Approach for 3D Human Pose Estimation from a Single Image] (https://arxiv.org/pdf/1705.02883.pdf) (May 2017)
 
 :package:[Towards 3D Human Pose Estimation in the Wild: a Weakly-supervised Approach](https://arxiv.org/pdf/1704.02447.pdf) [[CODE]](https://github.com/xingyizhou/Pytorch-pose-hg-3d) (Apr 2017)
 
@@ -322,3 +353,4 @@ A Dual-Source Approach for 3D Pose Estimation from a Single Image (Sep 2015)
 :door:[Learning Human Pose Estimation Features with Convolutional Networks](https://arxiv.org/pdf/1312.7302.pdf) (Dec 2013)
 
 :door:[DeepPose: Human Pose Estimation via Deep Neural Networks](https://arxiv.org/pdf/1312.4659.pdf) (Dec 2013)
+
