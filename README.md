@@ -242,7 +242,7 @@ First off, there ought to be a state of the art 2d pose detector, this is crucia
 ###### Top down, seems pretty typical, nothing special goin on here
 
 <b>:camera::one::package: [Deep Textured 3D Reconstruction of Human Bodies](https://arxiv.org/pdf/1809.06547v1.pdf) </b>[[Project]](http://www.f-zhou.com/hpe.html) (Sep 2018)
-###### Not relevant. I'll make a replica out of you from soggy clay. Depth training, regular camera tests
+`Not relevant. I'll make a replica out of you from soggy clay. Depth training, regular camera tests`
 
 [Exploiting temporal information for 3D human pose estimation](http://openaccess.thecvf.com/content_ECCV_2018/html/Mir_Rayat_Imtiaz_Hossain_Exploiting_temporal_information_ECCV_2018_paper.html) (Sep 2018)
 
