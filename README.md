@@ -26,8 +26,7 @@ The projects and papers are season, then month, then alphabet. Newer papers are 
 
 ### Fall 2018
 
-<b>:camera::one::package:[Deep 3D Human Pose Estimation Under Partial Body Presence
-](https://ieeexplore.ieee.org/document/8451031) </b> (Oct 2018)
+<b>:camera::one::package:[Deep 3D Human Pose Estimation Under Partial Body Presence](https://ieeexplore.ieee.org/document/8451031) </b> (Oct 2018)
 ###### My legs have been chopped off, and my head, but tis but a scratch.
 
 <b>:camera::one::package:[3D Human Pose Estimation Using Stochastic Optimization In Real Time](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8451427) </b> (Oct 2018)
@@ -36,8 +35,8 @@ The projects and papers are season, then month, then alphabet. Newer papers are 
 <b>:camera::one::package:[Adversarial 3D Human Pose Estimation via Multimodal Depth Supervision](https://arxiv.org/pdf/1809.07921v1.pdf) </b> (Sep 2018)
 ###### Continuation of FBI work, also got multimodal network now. IDK What that means
 
-<b>:camera::one::package: [Deep Textured 3D Reconstruction of Human Bodies](https://arxiv.org/pdf/1809.06547v1.pdf) </b>[[Project]](http://www.f-zhou.com/hpe.html) (Sep 2018)
-###### I'll make a replica out of you from soggy clay. Depth training, regular camera tests
+<b>:camera::one::door:[Deeply Learned Compositional Models for Human Pose Estimation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Wei_Tang_Deeply_Learned_Compositional_ECCV_2018_paper.pdf)</b> (Sep 2018)
+###### Take the human bode, and shove it into code blocks
 
 <b>:door:[Dense Pose Transfer](https://arxiv.org/pdf/1809.01995.pdf) </b> (Sep 2018)
 ###### color in a mannequin, a machine imagines the details, then animates it's paper statue
@@ -172,6 +171,27 @@ MS COCO
 
 MPII POSE
 
+Human 3.6M
+
+Human Eva
+
+MPI INF 3DHP
+
+Unite The People
+
+Pose Guided Person Image Generation
+
+A Generative Model of People in Clothing
+
+Deformable GANs for Pose Based Human Image Generatoin
+
+Dense Pose Transfer
+
+
+
+
+
+
 [Human3.6M](http://vision.imar.ro/human3.6m/description.php)
 
 [HumanEva](http://humaneva.is.tue.mpg.de/)
@@ -213,22 +233,26 @@ I'd like to find a project that can integrate with SteamVR. (bone locations inst
 First off, there ought to be a state of the art 2d pose detector, this is crucial. This 2d pose detector can return colored limbs corresponding to each body part, heat maps corresponding to joins, and FBI switches corresponding to limb direction in the z axis. Ideally the network, when extrapolating 2d pose to 3d information should take into account the previous frame, and an internalized GAN representation of what human poses can look like. Additionally, physics simulations of body mechanics can be used, as well as reprojection of 3d joints back to 2d geometery. Additionally, there can be two cameras in operation, and these two cameras should return the same 3d pose. Additionally the 3d pose can be iteratively refined. Additionally there should be 3d pose standarization. Additionally 2d pose should be done well.
 
 [Domain Transfer for 3D Pose Estimation from Color Images without Manual Annotations](https://arxiv.org/pdf/1810.03707v1) (Oct 2018)
+###### Not relevant, but hand posing is here, so I guess it kinda is
 
 [Context-Aware Deep Spatio-Temporal Network for Hand Pose Estimation from Depth Images](https://arxiv.org/pdf/1810.02994v1) (Oct 2018)
+###### Not relvant, hand pose estimation
 
 [Cascaded Pyramid Network for 3D Human Pose Estimation Challenge](https://arxiv.org/pdf/1810.01616v1) (Oct 2018)
+###### Top down, seems pretty typical, nothing special goin on here
 
-[Propagating LSTM: 3D Pose Estimation based on Joint Interdependency](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kyoungoh_Lee_Propagating_LSTM_3D_ECCV_2018_paper.pdf) (Sep 2018)
-
-[Human pose estimation method based on single depth image](http://digital-library.theiet.org/content/journals/10.1049/iet-cvi.2017.0536) (Sep 2018)
-
-[Deeply Learned Compositional Models for Human Pose Estimation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Wei_Tang_Deeply_Learned_Compositional_ECCV_2018_paper.pdf) (Sep 2018)
+<b>:camera::one::package: [Deep Textured 3D Reconstruction of Human Bodies](https://arxiv.org/pdf/1809.06547v1.pdf) </b>[[Project]](http://www.f-zhou.com/hpe.html) (Sep 2018)
+###### Not relevant. I'll make a replica out of you from soggy clay. Depth training, regular camera tests
 
 [Exploiting temporal information for 3D human pose estimation](http://openaccess.thecvf.com/content_ECCV_2018/html/Mir_Rayat_Imtiaz_Hossain_Exploiting_temporal_information_ECCV_2018_paper.html) (Sep 2018)
 
+[Propagating LSTM: 3D Pose Estimation based on Joint Interdependency](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kyoungoh_Lee_Propagating_LSTM_3D_ECCV_2018_paper.pdf) (Sep 2018)
+
 [Hockey Pose Estimation and Action Recognition using Convolutional Neural Networks to Ice Hockey][https://uwspace.uwaterloo.ca/handle/10012/13835] (Sep 2018)
 
-[Learning Robust Features and Latent Representations for Single View 3D Pose Estimation of Humans and Objects]() (Sep 2018)
+[Human pose estimation method based on single depth image](http://digital-library.theiet.org/content/journals/10.1049/iet-cvi.2017.0536) (Sep 2018)
+
+[Learning Robust Features and Latent Representations for Single View 3D Pose Estimation of Humans and Objects](https://infoscience.epfl.ch/record/256865/files/EPFL_TH8753.pdf) (Sep 2018)
 
 [Human Pose Estimation Based on Deep Neural Network](https://ieeexplore.ieee.org/abstract/document/8455245) (Jul 2018)
 
