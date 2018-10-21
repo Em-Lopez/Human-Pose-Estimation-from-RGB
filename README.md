@@ -68,7 +68,7 @@ The projects and papers are season, then month, then alphabet. Newer papers are 
 
 **:camera::one::package: [Rethinking Pose in 3D: Multi-stage Refinement and Recovery for Markerless Motion Capture](https://arxiv.org/pdf/1808.01525v1.pdf)** (Aug 2018)
 
-` `
+`use lots of cameras to make just one camera better, and do this over and over and over again`
 
 **:camera::one::package:[3D Human Pose Estimation with Relational Networks](https://arxiv.org/pdf/1805.08961v2.pdf)** (Jul 2018)
 
