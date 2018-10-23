@@ -212,11 +212,6 @@ Deformable GANs for Pose Based Human Image Generatoin
 
 Dense Pose Transfer
 
-
-
-
-
-
 [Human3.6M](http://vision.imar.ro/human3.6m/description.php)
 
 [HumanEva](http://humaneva.is.tue.mpg.de/)
@@ -249,13 +244,27 @@ Dense Pose Transfer
 
 ## My personal goals:
 
+* I'd like to find a project I can clone.
 
-I'd like to find a project I can clone. MICROSOFT
-I'd like to find a recent project. MICROSOFT YES
-I'd like to find a project with the 3d work done. I LOVE YOU MICROSOFT
-I'd like to find a project that can integrate with SteamVR. (bone locations instead of blobs/meshes) PLEASE GOD, oh wait they haven't done this, yet.
+* I'd like to find a recent project.
 
-First off, there ought to be a state of the art 2d pose detector, this is crucial. This 2d pose detector can return colored limbs corresponding to each body part, heat maps corresponding to joins, and FBI switches corresponding to limb direction in the z axis. Ideally the network, when extrapolating 2d pose to 3d information should take into account the previous frame, and an internalized GAN representation of what human poses can look like. Additionally, physics simulations of body mechanics can be used, as well as reprojection of 3d joints back to 2d geometery. Additionally, there can be two cameras in operation, and these two cameras should return the same 3d pose. Additionally the 3d pose can be iteratively refined. Additionally there should be 3d pose standarization. Additionally 2d pose should be done well.
+* I'd like to find a project with the 3d work done
+
+* I'd like to find a project that can integrate with SteamVR. (bone locations instead of blobs/meshes)
+
+1. state of the art 2d pose detector, this is crucial.
+
+2. This 2d pose detector can return colored limbs corresponding to each body part or heat maps corresponding to joint, or even forward/backwards information from annoation. 
+
+3. Time dependence ideally the network, when doing pixel to 2d pose and 2d pose to 3d map and 3d map to skeleton should take into account the previous frame, and with an internal representation of the boundary conditions of the human body pose (Perhaps a GAN?)
+
+4. Additionally, there are other gimmicks that can be used, like Siamese network parallelism.
+Where two shots of the same pose are rewarded for giving the same output.
+Physics simulations of body mechanics can be used. Reprojection of 3d joints back to 2d geometery using meshes.
+The 3d pose can be iteratively refined over and over again.
+Sythetic data created by game data.
+Additionally there should be 3d pose standarization.
+Additionally 2d pose should be done well.
 
 [Domain Transfer for 3D Pose Estimation from Color Images without Manual Annotations](https://arxiv.org/pdf/1810.03707v1) (Oct 2018)
 
@@ -269,10 +278,12 @@ First off, there ought to be a state of the art 2d pose detector, this is crucia
 
 `Top down, seems pretty typical, nothing special goin on here`
 
-:camera::one::package: [Deep Textured 3D Reconstruction of Human Bodies](https://arxiv.org/pdf/1809.06547v1.pdf) [[Project]](http://www.f-zhou.com/hpe.html) (Sep 2018)
+:camera::package: [Deep Textured 3D Reconstruction of Human Bodies](https://arxiv.org/pdf/1809.06547v1.pdf) [[Project]](http://www.f-zhou.com/hpe.html) (Sep 2018)
 `Not relevant. I'll make a replica out of you from soggy clay. Depth training, regular camera tests`
 
-[Exploiting temporal information for 3D human pose estimation](http://openaccess.thecvf.com/content_ECCV_2018/html/Mir_Rayat_Imtiaz_Hossain_Exploiting_temporal_information_ECCV_2018_paper.html) (Sep 2018)**[Multiview 3D human pose estimation using improved least-squares and LSTM networks](https://www.sciencedirect.com/science/article/pii/S0925231218311858)** (Jul 2018) `LSTM`
+[Exploiting temporal information for 3D human pose estimation](http://openaccess.thecvf.com/content_ECCV_2018/html/Mir_Rayat_Imtiaz_Hossain_Exploiting_temporal_information_ECCV_2018_paper.html) (Sep 2018)
+
+**[Multiview 3D human pose estimation using improved least-squares and LSTM networks](https://www.sciencedirect.com/science/article/pii/S0925231218311858)** (Jul 2018) `LSTM`
 
 **[Hierarchical Contextual Refinement Networks for Human Pose Estimation](https://niexc.github.io/assets/pdf/HCRN_HPE_TIP2018.pdf)** (Oct 2018)
 
