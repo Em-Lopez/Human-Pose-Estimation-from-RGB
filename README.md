@@ -272,7 +272,15 @@ First off, there ought to be a state of the art 2d pose detector, this is crucia
 :camera::one::package: [Deep Textured 3D Reconstruction of Human Bodies](https://arxiv.org/pdf/1809.06547v1.pdf) [[Project]](http://www.f-zhou.com/hpe.html) (Sep 2018)
 `Not relevant. I'll make a replica out of you from soggy clay. Depth training, regular camera tests`
 
-[Exploiting temporal information for 3D human pose estimation](http://openaccess.thecvf.com/content_ECCV_2018/html/Mir_Rayat_Imtiaz_Hossain_Exploiting_temporal_information_ECCV_2018_paper.html) (Sep 2018)
+[Exploiting temporal information for 3D human pose estimation](http://openaccess.thecvf.com/content_ECCV_2018/html/Mir_Rayat_Imtiaz_Hossain_Exploiting_temporal_information_ECCV_2018_paper.html) (Sep 2018)**[Multiview 3D human pose estimation using improved least-squares and LSTM networks](https://www.sciencedirect.com/science/article/pii/S0925231218311858)** (Jul 2018) `LSTM`
+
+**[Hierarchical Contextual Refinement Networks for Human Pose Estimation](https://niexc.github.io/assets/pdf/HCRN_HPE_TIP2018.pdf)** (Oct 2018)
+
+`You start from your center and work outwards`
+
+**[Fully Automatic Multi-person Human Motion Capture for VR Applications](https://link.springer.com/chapter/10.1007/978-3-030-01790-3_3)** (Sep 2018)
+
+`$$$ Have a party, turn all your friends into skeletons then they leave`
 
 [Propagating LSTM: 3D Pose Estimation based on Joint Interdependency](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kyoungoh_Lee_Propagating_LSTM_3D_ECCV_2018_paper.pdf) (Sep 2018)
 
@@ -282,9 +290,19 @@ First off, there ought to be a state of the art 2d pose detector, this is crucia
 
 [Learning Robust Features and Latent Representations for Single View 3D Pose Estimation of Humans and Objects](https://infoscience.epfl.ch/record/256865/files/EPFL_TH8753.pdf) (Sep 2018)
 
+[A Review of Human Pose Estimation from Single Image](https://ieeexplore.ieee.org/abstract/document/8455796) (Jul 2018)
+
+**[3D Human pose estimation on Taiji sequence](https://etda.libraries.psu.edu/files/final_submissions/17625)** (Jul 2018)
+
+`MoCap and a new biomedical dataset!`
+
 [Human Pose Estimation Based on Deep Neural Network](https://ieeexplore.ieee.org/abstract/document/8455245) (Jul 2018)
 
-[A Review of Human Pose Estimation from Single Image](https://ieeexplore.ieee.org/abstract/document/8455796) (Jul 2018)
+[Multi-View CNNs for 3D Hand Pose Estimation](https://dl.acm.org/citation.cfm?id=3281721) (Jul 2018)
+
+`Lots a people lookin at your hand`
+
+**[Multiview 3D human pose estimation using improved least-squares and LSTM networks](https://www.sciencedirect.com/science/article/pii/S0925231218311858)** (Jul 2018) `LSTM`
 
 [3-D Reconstruction of Human Body Shape from a Single Commodity Depth Camera](https://ieeexplore.ieee.org/abstract/document/8371630) (Jun 2018)
 
