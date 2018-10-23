@@ -121,6 +121,8 @@ The projects and papers are sorted by season, then by month, then by alphabet. I
 
 ` `
 
+**:camera::package:[Exploiting temporal information for 3D human pose estimation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Mir_Rayat_Imtiaz_Hossain_Exploiting_temporal_information_ECCV_2018_paper.pdf)** (Nov 2017)
+
 **:camera::package: [DensePose: Dense Human Pose Estimation In The Wild](https://arxiv.org/pdf/1802.00434.pdf) [[CODE]](https://github.com/facebookresearch/Densepose)** [[Project page]](http://densepose.org) (Feb 2018)
 
 ` `
@@ -274,14 +276,14 @@ Additionally 2d pose should be done well.
 
 `Not relvant, hand pose estimation`
 
-[Cascaded Pyramid Network for 3D Human Pose Estimation Challenge](https://arxiv.org/pdf/1810.01616v1) (Oct 2018)
+**:camera::package:[Cascaded Pyramid Network for 3D Human Pose Estimation Challenge](https://arxiv.org/pdf/1810.01616v1)** (Oct 2018)
 
 `Top down, seems pretty typical, nothing special goin on here`
 
 :camera::package: [Deep Textured 3D Reconstruction of Human Bodies](https://arxiv.org/pdf/1809.06547v1.pdf) [[Project]](http://www.f-zhou.com/hpe.html) (Sep 2018)
 `Not relevant. I'll make a replica out of you from soggy clay. Depth training, regular camera tests`
 
-[Exploiting temporal information for 3D human pose estimation](http://openaccess.thecvf.com/content_ECCV_2018/html/Mir_Rayat_Imtiaz_Hossain_Exploiting_temporal_information_ECCV_2018_paper.html) (Sep 2018)
+**:camera:
 
 **[Multiview 3D human pose estimation using improved least-squares and LSTM networks](https://www.sciencedirect.com/science/article/pii/S0925231218311858)** (Jul 2018) `LSTM`
 
@@ -348,8 +350,6 @@ Using a single RGB frame for real time 3D hand pose estimation in the wild (Dec 
 :package:[Learning 3D Human Pose from Structure and Motion](http://openaccess.thecvf.com/content_ECCV_2018/papers/Rishabh_Dabral_Learning_3D_Human_ECCV_2018_paper.pdf) (Nov 2017)
 
 :package:[Integral Human Pose Regression](https://arxiv.org/pdf/1711.08229.pdf) [[CODE]](https://github.com/JimmySuen/integral-human-pose) (Nov 2017)
-
-Exploiting temporal information for 3D pose estimation (Nov 2017)
 
 [Human Pose Retrieval for Image and Video collections](http://ir.inflibnet.ac.in:8080/jspui/handle/10603/168240) (Oct 2017)
 `A search engine for dancers`
