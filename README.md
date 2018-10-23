@@ -5,7 +5,7 @@ In recent years, tremendous amount of progress is being made in the field of Hum
 To make it a collaborative project, you may add content through pull requests or open an issue to let me know. 
 
 ## How this is sorted
-The projects and papers are season, then month, then alphabet. Newer papers are usually more sophisticated than older ones. I also do this to make removing duplicates easier. Below the publications are short, memorable bite sized summaries. This is neccessary since so many papers have similar titles.
+The projects and papers are sorted by season, then by month, then by alphabet. I do this because newer papers are usually more sophisticated than older ones and to make removing duplicates easier. Below the publications are short, memorable bite sized summaries. These summaries should be understandable to someone who is four, and very short.
 
 - Time Dimension
 	- :camera: Single-Shot 
@@ -32,7 +32,7 @@ The projects and papers are season, then month, then alphabet. Newer papers are 
 
 **:camera::door:[Deeply Learned Compositional Models for Human Pose Estimation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Wei_Tang_Deeply_Learned_Compositional_ECCV_2018_paper.pdf)** (Sep 2018)
 
-`Take the human bode, and shove it into code blocks`
+`Take the human body, and shove it into code blocks`
 
 **:door:[Dense Pose Transfer](https://arxiv.org/pdf/1809.01995.pdf)** (Sep 2018)
 
