@@ -421,3 +421,11 @@ A Dual-Source Approach for 3D Pose Estimation from a Single Image (Sep 2015)
 
 :door:[DeepPose: Human Pose Estimation via Deep Neural Networks](https://arxiv.org/pdf/1312.4659.pdf) (Dec 2013)
 
+Deep 3D Pose Dictionary: 3D Human Pose Estimation from Single RGB Image Using Deep Convolutional Neural Network
+3D Hand Pose Tracking from Depth Images using Deep Reinforcement Learning
+Human 3D Reconstruction and Identification Using Kinect Sensor
+**[3D Head Pose Estimation Using Tensor Decomposition and Non-linear Manifold Modeling](https://ieeexplore.ieee.org/abstract/document/8491002)** (Sep 2018) `
+
+`
+A Data-Driven Approach for 3D Human Body Pose Reconstruction from a Kinect Sensor
+Accidental Fall Detection Based on Pose Analysis and SVDD
