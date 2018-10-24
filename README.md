@@ -267,6 +267,14 @@ The 3d pose can be iteratively refined over and over again.
 Sythetic data created by game data.
 Additionally there should be 3d pose standarization.
 Additionally 2d pose should be done well.
+<!--
+https://arxiv.org/pdf/1707.02439.pdf
+https://arxiv.org/pdf/1803.08244.pdf
+https://arxiv.org/pdf/1803.09722.pdf
+https://arxiv.org/pdf/1809.07921v1.pdf
+http://openaccess.thecvf.com/content_cvpr_2018/papers/Siarohin_Deformable_GANs_for_CVPR_2018_paper.pdf
+https://infoscience.epfl.ch/record/256865/files/EPFL_TH8753.pdf
+-->
 
 [Domain Transfer for 3D Pose Estimation from Color Images without Manual Annotations](https://arxiv.org/pdf/1810.03707v1) (Oct 2018)
 
