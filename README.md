@@ -22,7 +22,7 @@ The projects and papers are sorted by season, then by month, then by alphabet. I
 
 `My legs have been chopped off, and my head, but tis but a scratch.`
 
-**:camera::package:[3D Human Pose Estimation Using Stochastic Optimization In Real Time](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8451427)** (Oct 2018)
+**:camera::package:[3D Human Pose Estimation Using Stochastic Optimization In Real Time](https://www.researchgate.net/profile/Philipp_Werner/publication/327995319_3D_Human_Pose_Estimation_Using_Stochastic_Optimization_in_Real_Time/links/5bc8233992851cae21ad83ac/3D-Human-Pose-Estimation-Using-Stochastic-Optimization-in-Real-Time.pdf)** (Oct 2018)
 
 `Try again and again, till you get it right. Uses depth based sensors. RTW + Particle Swarms`
 
@@ -442,7 +442,9 @@ A Dual-Source Approach for 3D Pose Estimation from a Single Image (Sep 2015)
 
 Deep 3D Pose Dictionary: 3D Human Pose Estimation from Single RGB Image Using Deep Convolutional Neural Network
 3D Hand Pose Tracking from Depth Images using Deep Reinforcement Learning
-Human 3D Reconstruction and Identification Using Kinect Sensor
+
+**[Human 3D Reconstruction and Identification Using Kinect Sensor](https://ieeexplore.ieee.org/abstract/document/8477609)** (Aug 2018) `Low-fi body ID`
+
 **[3D Head Pose Estimation Using Tensor Decomposition and Non-linear Manifold Modeling](https://ieeexplore.ieee.org/abstract/document/8491002)** (Sep 2018) `
 
 `
