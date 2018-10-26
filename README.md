@@ -123,6 +123,8 @@ The projects and papers are sorted by season, then by month, then by alphabet. I
 
 **:camera::package:[Exploiting temporal information for 3D human pose estimation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Mir_Rayat_Imtiaz_Hossain_Exploiting_temporal_information_ECCV_2018_paper.pdf)** (Nov 2017)
 
+` `
+
 **:camera::package: [DensePose: Dense Human Pose Estimation In The Wild](https://arxiv.org/pdf/1802.00434.pdf) [[CODE]](https://github.com/facebookresearch/Densepose)** [[Project page]](http://densepose.org) (Feb 2018)
 
 ` `
